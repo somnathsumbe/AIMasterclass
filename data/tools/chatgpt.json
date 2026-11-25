@@ -1,0 +1,134 @@
+{
+  "id": "AI-001",
+  "toolName": "ChatGPT",
+  "category": "AI Assistant",
+  "classTitle": "Prompt Engineering with ChatGPT",
+  "lectureNumber": 1,
+  "lectureDate": "2026-11-25",
+  "officialUrl": "https://chatgpt.com",
+  "description": "ChatGPT is an AI assistant that can understand instructions and help with writing, learning, brainstorming, coding, analysis and everyday productivity.",
+  "usage": "Start with a clear goal, provide relevant context, describe the expected output and add constraints such as tone, length or format. Review the response and refine the prompt when needed.",
+  "examples": [
+    {
+      "id": "EX-001",
+      "title": "Professional email",
+      "content": "Act as a business communication assistant. Draft a polite email requesting a project status update. Keep it under 120 words and include a clear subject line."
+    },
+    {
+      "id": "EX-002",
+      "title": "Learn a concept",
+      "content": "Explain JavaScript closures in simple Marathi with one practical example, then give me three short practice questions."
+    },
+    {
+      "id": "EX-003",
+      "title": "Improve a prompt",
+      "content": "Review this prompt for ambiguity. Suggest a clearer version and explain what changed: [paste prompt here]."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q-001",
+      "question": "What is ChatGPT?",
+      "answer": "ChatGPT is an AI assistant that understands natural-language instructions and generates helpful responses such as explanations, drafts, summaries and code."
+    },
+    {
+      "id": "Q-002",
+      "question": "What does GPT stand for?",
+      "answer": "GPT stands for Generative Pre-trained Transformer. It describes a model trained on large amounts of data to generate language-based outputs."
+    },
+    {
+      "id": "Q-003",
+      "question": "What is a prompt?",
+      "answer": "A prompt is the instruction or input you give an AI system to guide the response."
+    },
+    {
+      "id": "Q-004",
+      "question": "What is prompt engineering?",
+      "answer": "Prompt engineering is the practice of designing and refining instructions so an AI system produces more relevant, accurate and useful results."
+    },
+    {
+      "id": "Q-005",
+      "question": "Why should a prompt include context?",
+      "answer": "Context explains the situation, audience and constraints. It reduces ambiguity and helps the model tailor its answer."
+    },
+    {
+      "id": "Q-006",
+      "question": "What is a role-based prompt?",
+      "answer": "It asks the model to respond from a particular professional perspective, such as a teacher, editor or software architect."
+    },
+    {
+      "id": "Q-007",
+      "question": "What is a zero-shot prompt?",
+      "answer": "A zero-shot prompt gives an instruction without providing an example of the desired answer."
+    },
+    {
+      "id": "Q-008",
+      "question": "What is a few-shot prompt?",
+      "answer": "A few-shot prompt includes a small number of examples to show the model the expected pattern or format."
+    },
+    {
+      "id": "Q-009",
+      "question": "How can I request a specific output format?",
+      "answer": "State the format explicitly, for example: return a Markdown table, JSON object, checklist or numbered steps."
+    },
+    {
+      "id": "Q-010",
+      "question": "Can ChatGPT help with coding?",
+      "answer": "Yes. It can explain code, generate examples, suggest refactoring and help debug errors. You should still run and review the code."
+    },
+    {
+      "id": "Q-011",
+      "question": "Can ChatGPT make mistakes?",
+      "answer": "Yes. AI responses can contain incorrect or outdated information, so verify important facts with reliable sources."
+    },
+    {
+      "id": "Q-012",
+      "question": "What is an iterative prompt?",
+      "answer": "It is a prompt that builds on an earlier response. You review the result and provide follow-up instructions to improve it."
+    },
+    {
+      "id": "Q-013",
+      "question": "Why should I define the audience?",
+      "answer": "The audience helps determine the right vocabulary, depth, tone and examples for the response."
+    },
+    {
+      "id": "Q-014",
+      "question": "What is a constraint in a prompt?",
+      "answer": "A constraint is a boundary such as word count, language, deadline, technology choice or formatting requirement."
+    },
+    {
+      "id": "Q-015",
+      "question": "How do I ask for a Marathi explanation?",
+      "answer": "Specify the language directly, for example: explain this in simple Marathi and retain important technical terms in English."
+    },
+    {
+      "id": "Q-016",
+      "question": "Can ChatGPT summarize notes?",
+      "answer": "Yes. Provide the notes and specify the summary length, structure and whether key terms or examples should be retained."
+    },
+    {
+      "id": "Q-017",
+      "question": "What should I do when an answer is too generic?",
+      "answer": "Add your context, share a concrete example, define success criteria and ask for a more specific response."
+    },
+    {
+      "id": "Q-018",
+      "question": "What is hallucination in AI?",
+      "answer": "A hallucination is a confident-sounding AI response that includes information that is false, unsupported or invented."
+    },
+    {
+      "id": "Q-019",
+      "question": "How can I get more reliable answers?",
+      "answer": "Give clear context, ask for assumptions to be stated, request sources when appropriate and independently verify critical claims."
+    },
+    {
+      "id": "Q-020",
+      "question": "What is the best way to learn ChatGPT?",
+      "answer": "Practice with real tasks, compare different prompts, review the outputs and keep a library of prompts that work well."
+    }
+  ],
+  "certificateUrl": "",
+  "status": "active",
+  "mark": "C",
+  "color": "indigo"
+}
