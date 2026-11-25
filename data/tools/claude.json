@@ -8,23 +8,6 @@
   "officialUrl": "https://claude.ai",
   "description": "Claude is an AI assistant by Anthropic that can support writing, analysis, coding, document work and reasoning-oriented tasks.",
   "usage": "Describe the outcome you need, provide relevant context and share source material when appropriate. Ask Claude to structure the response and identify assumptions or uncertainties.",
-  "examples": [
-    {
-      "id": "EX-001",
-      "title": "Document review",
-      "content": "Review the following project brief. Summarize its goals, list unclear requirements and create a risk checklist: [paste brief]."
-    },
-    {
-      "id": "EX-002",
-      "title": "Code explanation",
-      "content": "Explain this JavaScript function step by step. Identify edge cases and suggest a cleaner implementation without changing behavior: [paste code]."
-    },
-    {
-      "id": "EX-003",
-      "title": "Writing refinement",
-      "content": "Rewrite this paragraph to be clear and professional. Preserve all factual details and list any ambiguous statements separately."
-    }
-  ],
   "questions": [
     {
       "id": "Q-001",
