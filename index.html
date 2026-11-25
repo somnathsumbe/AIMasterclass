@@ -56,12 +56,14 @@
       </div>
     </main>
   </div>
-  <div id="detailModal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="detailTitle">
-    <div class="modal-backdrop" data-close-modal></div>
-    <article class="modal-panel">
-      <div class="modal-header"><div><p class="eyebrow">CLASS NOTES</p><h2 id="detailTitle">Tool details</h2></div><button id="closeModal" class="icon-button" aria-label="Close details">×</button></div>
-      <div id="detailContent" class="modal-content"></div>
-    </article>
-  </div>
+  <section id="detailPage" class="detail-page hidden" aria-live="polite">
+    <div class="detail-page-inner">
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        <button id="backToDashboard" class="breadcrumb-back">← मागे जा</button>
+        <span>/</span><a href="#dashboard" id="breadcrumbHome">Dashboard</a><span>/</span><span id="breadcrumbTool">Tool details</span>
+      </nav>
+      <div id="detailContent" class="detail-page-content"></div>
+    </div>
+  </section>
   <script src="assets/js/app.js" defer></script>
 </body></html>
