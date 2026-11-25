@@ -4,110 +4,115 @@
   "category": "AI Assistant",
   "classTitle": "Prompt Engineering with ChatGPT",
   "lectureNumber": 1,
-  "lectureDate": "2026-11-25",
+  "lectureDate": "2026-11-24",
   "officialUrl": "https://chatgpt.com",
-  "description": "ChatGPT is an AI assistant that can understand instructions and help with writing, learning, brainstorming, coding, analysis and everyday productivity.",
-  "usage": "Start with a clear goal, provide relevant context, describe the expected output and add constraints such as tone, length or format. Review the response and refine the prompt when needed.",
+  "description": "ChatGPT हे AI आधारित सहाय्यक साधन आहे. याचा वापर Content Writing, Email Writing, Script Creation, Planning, Data Analysis, Decision Making, Learning आणि Business मधील विविध कामांसाठी करता येतो.",
+  "usage": "AI कडून अपेक्षित आणि उपयुक्त उत्तर मिळवण्यासाठी स्पष्ट Goal, Role, Context, Task, Requirements आणि Output Format द्यावा. माहिती अपुरी असल्यास AI ला आधी प्रश्न विचारण्यास सांगावे. मिळालेले पहिले उत्तर तपासून आवश्यकतेनुसार सुधारणा करून घ्यावी.",
   "questions": [
     {
       "id": "Q-001",
-      "question": "What is ChatGPT?",
-      "answer": "ChatGPT is an AI assistant that understands natural-language instructions and generates helpful responses such as explanations, drafts, summaries and code."
+      "question": "ChatGPT म्हणजे काय? त्याचे उपयोग स्पष्ट करा.",
+      "answer": "ChatGPT हे Artificial Intelligence (AI) आधारित संवाद साधणारे सहाय्यक साधन आहे. आपण ChatGPT ला सामान्य भाषेत प्रश्न विचारू शकतो, सूचना देऊ शकतो आणि विविध प्रकारची कामे करून घेऊ शकतो. ChatGPT फक्त प्रश्नांची उत्तरे देण्यासाठी नसून लेखन, नियोजन, विश्लेषण, शिक्षण आणि Business मधील कामांसाठीही उपयोगी आहे.\n\nChatGPT चे प्रमुख उपयोग पुढीलप्रमाणे आहेत:\n1. Content Writing: लेख, पोस्ट, ब्लॉग आणि सोशल मीडिया Content तयार करणे.\n2. Email Writing: Professional Email आणि Reply तयार करणे.\n3. Script Creation: Video, Presentation आणि इतर Script तयार करणे.\n4. Planning: Business Plan, Marketing Plan आणि अभ्यासाचे नियोजन करणे.\n5. Data Analysis: उपलब्ध माहिती आणि डेटाचे विश्लेषण करणे.\n6. Decision Support: विविध पर्यायांची तुलना करून निर्णय घेण्यास मदत करणे.\n7. Learning: नवीन विषय सोप्या भाषेत शिकणे.\n8. Business Support: Templates, SOP आणि कामाच्या प्रक्रिया तयार करणे.\n\nउदाहरण: एखाद्या विद्यार्थ्याला 30 दिवसांचा अभ्यास आराखडा हवा असल्यास तो ChatGPT ला आपला विषय, वेळ आणि उद्दिष्ट सांगून अभ्यास योजना तयार करून घेऊ शकतो.",
+      "marks": 5,
+      "difficulty": "basic"
     },
     {
       "id": "Q-002",
-      "question": "What does GPT stand for?",
-      "answer": "GPT stands for Generative Pre-trained Transformer. It describes a model trained on large amounts of data to generate language-based outputs."
+      "question": "Prompt म्हणजे काय? Prompt चे महत्त्व स्पष्ट करा.",
+      "answer": "आपण AI ला एखादे काम करण्यासाठी जी सूचना, प्रश्न किंवा आदेश देतो त्याला Prompt म्हणतात. Prompt हा AI सोबत संवाद साधण्याचा आणि त्याच्याकडून अपेक्षित काम करून घेण्याचा मुख्य मार्ग आहे.\n\nPrompt चे महत्त्व:\n1. AI ला कोणते काम करायचे आहे हे समजते.\n2. उत्तरासाठी आवश्यक संदर्भ देता येतो.\n3. उत्तराची भाषा, Tone आणि Format निश्चित करता येतो.\n4. अपेक्षित परिणाम अधिक स्पष्ट करता येतो.\n5. अनावश्यक किंवा सर्वसाधारण उत्तर मिळण्याची शक्यता कमी करता येते.\n\nउदाहरण:\nWeak Prompt: मला Marketing Plan दे.\n\nया Prompt मध्ये कोणत्या Business साठी Marketing Plan हवा आहे, ग्राहक कोण आहेत आणि किती दिवसांचा Plan हवा आहे हे स्पष्ट नाही.\n\nStrong Prompt: तू Senior Digital Marketing Strategist आहेस. माझा मराठी AI Education Business आहे. मला 30 दिवसांची Instagram Content Strategy तयार करून दे. ती Beginner Friendly, Practical आणि Lead Focused असावी. उत्तर Day-wise Table मध्ये दे.\n\nयावरून स्पष्ट होते की Prompt जितका स्पष्ट आणि संदर्भपूर्ण असेल तितके AI ला अपेक्षित काम समजण्यास मदत होते.",
+      "marks": 5,
+      "difficulty": "basic"
     },
     {
       "id": "Q-003",
-      "question": "What is a prompt?",
-      "answer": "A prompt is the instruction or input you give an AI system to guide the response."
+      "question": "Prompt Engineering म्हणजे काय? त्याचे महत्त्व स्पष्ट करा.",
+      "answer": "AI कडून अधिक योग्य, स्पष्ट, उपयुक्त आणि आपल्या अपेक्षेनुसार उत्तर मिळवण्यासाठी Prompt तयार करणे, त्याची रचना सुधारणे आणि मिळालेल्या उत्तरानुसार त्यात बदल करणे या प्रक्रियेला Prompt Engineering म्हणतात.\n\nPrompt Engineering मध्ये खालील गोष्टी महत्त्वाच्या असतात:\n1. AI ला योग्य Role देणे.\n2. कामाचा Context स्पष्ट करणे.\n3. नेमके Task सांगणे.\n4. आवश्यक Requirements आणि Rules देणे.\n5. अपेक्षित Output Format सांगणे.\n6. आवश्यक असल्यास AI कडून आधी प्रश्न विचारून घेणे.\n7. पहिले उत्तर तपासून त्यात सुधारणा करून घेणे.\n\nउदाहरण: फक्त 'मला Resume तयार करून दे' असे सांगण्याऐवजी आपला अनुभव, Skills, कोणत्या Job साठी अर्ज करायचा आहे आणि Resume चा Format सांगितल्यास अधिक योग्य Resume तयार करण्यास मदत होते.\n\nPrompt Engineering मुळे AI सोबतचा संवाद अधिक प्रभावी होतो आणि कामाचा वेळ वाचवण्यास मदत होते.",
+      "marks": 5,
+      "difficulty": "intermediate"
     },
     {
       "id": "Q-004",
-      "question": "What is prompt engineering?",
-      "answer": "Prompt engineering is the practice of designing and refining instructions so an AI system produces more relevant, accurate and useful results."
+      "question": "RCTRO Formula म्हणजे काय? त्यातील पाच घटक उदाहरणासह स्पष्ट करा.",
+      "answer": "RCTRO ही प्रभावी आणि व्यवस्थित Prompt तयार करण्याची पाच भागांची पद्धत आहे. या पद्धतीमध्ये AI ला Role, Context, Task, Requirements आणि Output या पाच गोष्टी स्पष्टपणे सांगितल्या जातात.\n\n1. R - Role (भूमिका): AI ने कोणत्या तज्ज्ञाच्या भूमिकेत काम करावे हे सांगणे. उदाहरण: तू Senior Digital Marketing Expert आहेस.\n\n2. C - Context (संदर्भ): आपल्या कामाची पार्श्वभूमी, Business किंवा परिस्थिती सांगणे. उदाहरण: माझा मराठी AI Education Business आहे.\n\n3. T - Task (काम): AI ने नेमके कोणते काम करायचे आहे ते सांगणे. उदाहरण: माझ्यासाठी 30 दिवसांची Instagram Marketing Strategy तयार कर.\n\n4. R - Requirements (अटी): काम करताना कोणते नियम किंवा अटी पाळायच्या ते सांगणे. उदाहरण: Content Beginner Friendly, Practical आणि Lead Focused असावा.\n\n5. O - Output (अपेक्षित स्वरूप): उत्तर कोणत्या स्वरूपात हवे आहे ते सांगणे. उदाहरण: Day-wise Table मध्ये Topic, Caption आणि Content Idea दे.\n\nपूर्ण उदाहरण:\nतू Senior Digital Marketing Expert आहेस. माझा मराठी AI Education Business आहे. मला 30 दिवसांची Instagram Marketing Strategy तयार करून दे. Content Beginner Friendly आणि Practical असावा. उत्तर Day-wise Table मध्ये दे.\n\nRCTRO Formula वापरल्यामुळे AI ला कामाची स्पष्ट दिशा मिळते आणि आपल्या अपेक्षेनुसार उत्तर तयार करण्यास मदत होते.",
+      "marks": 10,
+      "difficulty": "important"
     },
     {
       "id": "Q-005",
-      "question": "Why should a prompt include context?",
-      "answer": "Context explains the situation, audience and constraints. It reduces ambiguity and helps the model tailor its answer."
+      "question": "Master Prompt म्हणजे काय? त्याचे महत्त्व स्पष्ट करा.",
+      "answer": "AI कडून एखादे काम व्यवस्थित, स्पष्ट आणि आपल्या अपेक्षेनुसार करून घेण्यासाठी तयार केलेला सविस्तर आणि संरचित Prompt म्हणजे Master Prompt.\n\nMaster Prompt मध्ये सामान्यतः खालील माहिती असते:\n1. Role: AI ने कोणत्या तज्ज्ञाची भूमिका घ्यावी.\n2. Context: कामाची पार्श्वभूमी आणि आवश्यक माहिती.\n3. Task: AI ने नेमके कोणते काम करायचे आहे.\n4. Requirements: कामासाठी आवश्यक अटी, नियम आणि मर्यादा.\n5. Output: उत्तर कोणत्या स्वरूपात हवे आहे.\n\nMaster Prompt चे फायदे:\n- AI ला कामाची स्पष्ट माहिती मिळते.\n- वारंवार सूचना देण्याची गरज कमी होते.\n- एकाच प्रकारचे काम सातत्याने करता येते.\n- अपेक्षित Output मिळवण्यासाठी मदत होते.\n- Prompt पुन्हा वापरण्यासाठी जतन करता येतो.\n\nउदाहरण: एखाद्या Business साठी Marketing Strategy तयार करायची असल्यास Business ची माहिती, Target Audience, Marketing Goal, Budget आणि Output Format समाविष्ट करून Master Prompt तयार करता येतो.",
+      "marks": 5,
+      "difficulty": "important"
     },
     {
       "id": "Q-006",
-      "question": "What is a role-based prompt?",
-      "answer": "It asks the model to respond from a particular professional perspective, such as a teacher, editor or software architect."
+      "question": "Weak Prompt आणि Strong Prompt यांमधील फरक उदाहरणासह स्पष्ट करा.",
+      "answer": "Weak Prompt म्हणजे असा Prompt ज्यामध्ये पुरेसा संदर्भ, स्पष्ट Task, आवश्यक अटी किंवा अपेक्षित Output दिलेला नसतो. Strong Prompt म्हणजे असा Prompt ज्यामध्ये AI ला काम समजण्यासाठी आवश्यक असलेली माहिती स्पष्टपणे दिलेली असते.\n\nWeak Prompt ची वैशिष्ट्ये:\n1. माहिती अपुरी असते.\n2. Role स्पष्ट नसते.\n3. Context दिलेला नसतो.\n4. Task अस्पष्ट असतो.\n5. Output Format सांगितलेला नसतो.\n\nStrong Prompt ची वैशिष्ट्ये:\n1. AI ची Role स्पष्ट असते.\n2. कामाची पार्श्वभूमी दिलेली असते.\n3. Task नेमकेपणाने सांगितलेले असते.\n4. आवश्यक Requirements दिलेल्या असतात.\n5. अपेक्षित Output Format स्पष्ट असतो.\n\nउदाहरण:\nWeak Prompt: मला Business Plan दे.\n\nStrong Prompt: तू अनुभवी Business Consultant आहेस. मला पुण्यात घरगुती खाद्यपदार्थांचा व्यवसाय सुरू करायचा आहे. माझे बजेट 50,000 रुपये आहे. मला सुरुवातीसाठी Business Plan तयार करून दे. त्यामध्ये खर्च, ग्राहक, Marketing Strategy आणि विक्रीचे नियोजन समाविष्ट कर. उत्तर सोप्या मराठीत Table आणि मुद्द्यांच्या स्वरूपात दे.\n\nनिष्कर्ष: Strong Prompt मध्ये कामाची पूर्ण माहिती दिलेली असल्यामुळे AI ला अपेक्षित उत्तर तयार करण्यासाठी अधिक स्पष्ट दिशा मिळते.",
+      "marks": 10,
+      "difficulty": "important"
     },
     {
       "id": "Q-007",
-      "question": "What is a zero-shot prompt?",
-      "answer": "A zero-shot prompt gives an instruction without providing an example of the desired answer."
+      "question": "Prompt मध्ये Role देणे महत्त्वाचे का आहे? उदाहरणासह स्पष्ट करा.",
+      "answer": "Role म्हणजे AI ने कोणत्या तज्ज्ञाच्या किंवा व्यावसायिकाच्या दृष्टिकोनातून काम करावे हे सांगणे. Prompt मध्ये Role दिल्यामुळे AI ला उत्तर कोणत्या विषयातील ज्ञान, अनुभव आणि दृष्टिकोन वापरून द्यायचे आहे याची दिशा मिळते.\n\nRole देण्याचे फायदे:\n1. उत्तराचा दृष्टिकोन स्पष्ट होतो.\n2. विषयानुसार योग्य शब्द आणि संकल्पना वापरण्यास मदत होते.\n3. उत्तर अधिक संबंधित आणि व्यवस्थित मिळू शकते.\n4. वेगवेगळ्या कामांसाठी वेगवेगळ्या भूमिका देता येतात.\n\nउदाहरणे:\n- तू Senior Software Architect आहेस.\n- तू Digital Marketing Expert आहेस.\n- तू Excel Data Analyst आहेस.\n- तू अनुभवी शिक्षक आहेस.\n- तू Career Guidance Expert आहेस.\n\nउदाहरण Prompt: तू अनुभवी Career Coach आहेस. माझा Software Development मध्ये 10 वर्षांचा अनुभव आहे. मला Senior UI Developer पदासाठी Interview Preparation Plan तयार करून दे.\n\nयामुळे AI ला कोणत्या भूमिकेतून मदत करायची आहे हे स्पष्ट होते.",
+      "marks": 5,
+      "difficulty": "intermediate"
     },
     {
       "id": "Q-008",
-      "question": "What is a few-shot prompt?",
-      "answer": "A few-shot prompt includes a small number of examples to show the model the expected pattern or format."
+      "question": "Prompt मध्ये Context म्हणजे काय? Context देण्याचे महत्त्व स्पष्ट करा.",
+      "answer": "Context म्हणजे आपण करत असलेल्या कामाची पार्श्वभूमी, परिस्थिती, उद्दिष्ट, Business, ग्राहक किंवा आवश्यक माहिती. Context दिल्यामुळे AI ला आपण नेमके काय करतो आणि आपल्याला कोणत्या प्रकारची मदत हवी आहे हे समजण्यास मदत होते.\n\nContext मध्ये पुढील माहिती देता येते:\n1. आपला Business किंवा काम कोणते आहे.\n2. आपला अनुभव किंवा कौशल्ये कोणती आहेत.\n3. आपले ग्राहक किंवा Target Audience कोण आहेत.\n4. आपले उद्दिष्ट काय आहे.\n5. कोणत्या मर्यादा किंवा अडचणी आहेत.\n\nउदाहरण:\nContext शिवाय: मला Marketing Strategy दे.\n\nContext सह: माझा पुण्यात घरगुती फराळ विक्रीचा छोटा व्यवसाय आहे. माझे ग्राहक आसपासच्या सोसायट्यांमधील कुटुंबे आहेत. मला WhatsApp च्या माध्यमातून ऑर्डर वाढवायच्या आहेत.\n\nदुसऱ्या उदाहरणात AI ला Business, ग्राहक आणि उद्दिष्ट यांची माहिती मिळते. त्यामुळे अधिक संबंधित Marketing Strategy सुचवता येते.",
+      "marks": 5,
+      "difficulty": "intermediate"
     },
     {
       "id": "Q-009",
-      "question": "How can I request a specific output format?",
-      "answer": "State the format explicitly, for example: return a Markdown table, JSON object, checklist or numbered steps."
+      "question": "Prompt Doctor म्हणजे काय? त्याचा उपयोग काय आहे?",
+      "answer": "Prompt Doctor ही साध्या, अपूर्ण किंवा कमकुवत Prompt मधील कमतरता शोधून त्याला अधिक स्पष्ट आणि प्रभावी Master Prompt मध्ये बदलण्याची पद्धत आहे.\n\nअनेक वेळा आपण AI ला साधा प्रश्न विचारतो; परंतु त्यामध्ये आवश्यक Context, Role किंवा Requirements नसतात. अशा वेळी Prompt Doctor वापरून AI कडून आपला Prompt तपासून आणि सुधारून घेता येतो.\n\nPrompt Doctor चे उपयोग:\n1. Prompt मधील कमतरता शोधणे.\n2. आवश्यक माहिती कोणती नाही हे समजून घेणे.\n3. योग्य प्रश्न तयार करून घेणे.\n4. सुधारित Master Prompt तयार करणे.\n5. सुधारित Prompt वापरून चांगले उत्तर मिळवण्याचा प्रयत्न करणे.\n\nउदाहरण: 'मला Business Ideas दे' हा साधा Prompt दिल्यानंतर AI ला विचारता येते की चांगल्या Business Ideas देण्यासाठी माझ्याबद्दल कोणती माहिती आवश्यक आहे. AI ने विचारलेल्या प्रश्नांची उत्तरे दिल्यानंतर तो अधिक योग्य Prompt तयार करून देऊ शकतो.",
+      "marks": 5,
+      "difficulty": "important"
     },
     {
       "id": "Q-010",
-      "question": "Can ChatGPT help with coding?",
-      "answer": "Yes. It can explain code, generate examples, suggest refactoring and help debug errors. You should still run and review the code."
+      "question": "Prompt Doctor Technique चे टप्पे सविस्तर स्पष्ट करा.",
+      "answer": "Prompt Doctor Technique वापरून साधा Prompt सुधारित Master Prompt मध्ये बदलता येतो. यासाठी खालील टप्पे वापरता येतात.\n\n1. Paste Your Rough Prompt: सर्वप्रथम आपला साधा किंवा अपूर्ण Prompt AI ला द्यायचा.\n\n2. Identify Missing Context: Prompt मध्ये कोणती माहिती कमी आहे, कोणत्या सूचना अस्पष्ट आहेत आणि कोणते मुद्दे समाविष्ट करणे आवश्यक आहे हे AI ला शोधायला सांगायचे.\n\n3. Ask Questions: चांगला Prompt तयार करण्यासाठी आवश्यक असलेले प्रश्न AI ला विचारण्यास सांगायचे. त्यानंतर त्या प्रश्नांची उत्तरे द्यायची.\n\n4. Rewrite Master Prompt: मिळालेल्या माहितीच्या आधारे AI कडून सुधारित आणि पूर्ण Master Prompt तयार करून घ्यायचा.\n\n5. Run Improved Prompt: सुधारित Prompt वापरून AI कडून उत्तर मिळवायचे.\n\n6. Compare Output: जुन्या Prompt आणि सुधारित Prompt मधून मिळालेल्या उत्तरांची तुलना करायची.\n\n7. Save Best Prompt: सर्वात उपयुक्त Prompt जतन करून भविष्यात पुन्हा वापरायचा.\n\nउदाहरण: 'मला Resume तयार करून दे' हा Rough Prompt दिल्यानंतर AI ला अनुभव, Skills, Job Description आणि अपेक्षित Resume Format याबद्दल प्रश्न विचारण्यास सांगता येते. माहिती मिळाल्यानंतर सुधारित Master Prompt तयार करता येतो.",
+      "marks": 10,
+      "difficulty": "important"
     },
     {
       "id": "Q-011",
-      "question": "Can ChatGPT make mistakes?",
-      "answer": "Yes. AI responses can contain incorrect or outdated information, so verify important facts with reliable sources."
+      "question": "7-Step Prompt Formula म्हणजे काय? त्यातील सात टप्पे उदाहरणासह स्पष्ट करा.",
+      "answer": "7-Step Prompt Formula ही AI साठी अधिक स्पष्ट आणि पूर्ण Prompt तयार करण्याची सात टप्प्यांची पद्धत आहे. या पद्धतीमध्ये Goal, Role, Background, Task, Rules, Questions आणि Output Format यांचा समावेश होतो.\n\n1. Goal (उद्दिष्ट): आपल्याला काय साध्य करायचे आहे ते स्पष्ट करणे. उदाहरण: मला 30 दिवसांत Digital Marketing शिकायचे आहे.\n\n2. Role (भूमिका): AI ने कोणत्या तज्ज्ञाच्या भूमिकेत काम करावे ते सांगणे. उदाहरण: तू अनुभवी Digital Marketing Trainer आहेस.\n\n3. Background / Context (पार्श्वभूमी): आपला अनुभव आणि परिस्थिती सांगणे. उदाहरण: मला Digital Marketing चा पूर्वानुभव नाही.\n\n4. Task (काम): AI ने नेमके काय करायचे आहे ते सांगणे. उदाहरण: माझ्यासाठी 30 दिवसांचा Learning Plan तयार कर.\n\n5. Rules (नियम): उत्तरासाठी आवश्यक अटी सांगणे. उदाहरण: रोजचा अभ्यास 1 तासाचा असावा आणि भाषा सोपी असावी.\n\n6. Questions (प्रश्न): आवश्यक माहिती अपुरी असल्यास AI ने आधी प्रश्न विचारावेत अशी सूचना देणे.\n\n7. Output Format (उत्तराचे स्वरूप): उत्तर कोणत्या स्वरूपात हवे आहे ते सांगणे. उदाहरण: Day-wise Table मध्ये उत्तर दे.\n\nही सात पावले वापरल्यास Prompt अधिक स्पष्ट होतो आणि AI ला काम करण्यासाठी योग्य दिशा मिळते.",
+      "marks": 10,
+      "difficulty": "important"
     },
     {
       "id": "Q-012",
-      "question": "What is an iterative prompt?",
-      "answer": "It is a prompt that builds on an earlier response. You review the result and provide follow-up instructions to improve it."
+      "question": "One Chat, One Role म्हणजे काय? उदाहरणासह त्याचे फायदे स्पष्ट करा.",
+      "answer": "One Chat, One Role म्हणजे एका Chat मध्ये एका विशिष्ट प्रकारच्या कामासाठी एकच Role आणि त्याच्याशी संबंधित Context ठेवणे.\n\nउदाहरणार्थ:\n1. Chat 1: Marketing Strategy साठी Digital Marketing Expert.\n2. Chat 2: Software Development साठी Software Architect.\n3. Chat 3: Excel Reports साठी Data Analyst.\n4. Chat 4: अभ्यासासाठी Teacher किंवा Learning Coach.\n\nफायदे:\n- प्रत्येक कामाचा Context वेगळा राहतो.\n- वेगवेगळ्या विषयांची माहिती एकमेकांत मिसळण्याची शक्यता कमी होते.\n- संबंधित कामासाठी Chat पुन्हा वापरता येतो.\n- कामाचे नियोजन आणि व्यवस्थापन सोपे होते.\n- Prompt मध्ये वारंवार Role बदलण्याची गरज कमी होते.\n\nम्हणूनच वेगवेगळ्या प्रकारच्या कामांसाठी स्वतंत्र Chat ठेवणे उपयुक्त ठरते.",
+      "marks": 5,
+      "difficulty": "intermediate"
     },
     {
       "id": "Q-013",
-      "question": "Why should I define the audience?",
-      "answer": "The audience helps determine the right vocabulary, depth, tone and examples for the response."
+      "question": "Personal AI Assistant म्हणजे काय? तो तयार करण्यासाठी कोणती माहिती द्यावी?",
+      "answer": "Personal AI Assistant म्हणजे आपल्या वैयक्तिक किंवा व्यावसायिक कामांसाठी मदत करणारा AI सहाय्यक. त्याला आपली ओळख, कामाची पार्श्वभूमी, उद्दिष्टे आणि अपेक्षा सांगितल्यास तो आपल्या गरजेनुसार उत्तर देण्यास मदत करू शकतो.\n\nPersonal AI Assistant तयार करताना खालील माहिती द्यावी:\n\n1. Identity: आपली ओळख आणि आपण काय काम करतो.\n2. Role: AI ने कोणत्या तज्ज्ञाच्या भूमिकेत मदत करावी.\n3. Goals: आपली मुख्य उद्दिष्टे कोणती आहेत.\n4. Audience: आपले ग्राहक, विद्यार्थी किंवा Target Audience कोण आहेत.\n5. Business / Work Context: आपल्या Business किंवा कामाची माहिती.\n6. Working Rules: AI ने उत्तर देताना कोणते नियम पाळावेत.\n7. Response Style: उत्तर सोप्या भाषेत, मुद्देसूद किंवा सविस्तर कसे हवे आहे.\n8. Clarifying Questions: माहिती अपुरी असल्यास AI ने आधी प्रश्न विचारावेत.\n\nउदाहरण: एखादा Software Developer आपला अनुभव, Skills, Technology Stack आणि Career Goal सांगून AI ला Personal Career Assistant म्हणून वापरू शकतो.",
+      "marks": 10,
+      "difficulty": "intermediate"
     },
     {
       "id": "Q-014",
-      "question": "What is a constraint in a prompt?",
-      "answer": "A constraint is a boundary such as word count, language, deadline, technology choice or formatting requirement."
+      "question": "AI ने दिलेले पहिले उत्तर अंतिम का समजू नये? उत्तर सुधारण्याची पद्धत स्पष्ट करा.",
+      "answer": "AI ने दिलेले पहिले उत्तर नेहमीच पूर्ण, अचूक किंवा आपल्या अपेक्षेनुसार असेल असे नाही. काही वेळा उत्तर खूप सर्वसाधारण असू शकते किंवा त्यामध्ये आवश्यक माहिती कमी असू शकते. म्हणून पहिले उत्तर तपासून आवश्यकतेनुसार सुधारणा करून घेणे महत्त्वाचे आहे.\n\nउत्तर सुधारण्याची पद्धत:\n1. AI ने दिलेले उत्तर पूर्णपणे वाचावे.\n2. त्यातील अपूर्ण किंवा अस्पष्ट मुद्दे शोधावेत.\n3. कोणती माहिती कमी आहे ते AI ला सांगावे.\n4. आवश्यक असल्यास अधिक Context द्यावा.\n5. उत्तर अधिक सविस्तर, स्पष्ट किंवा विशिष्ट स्वरूपात देण्यास सांगावे.\n6. सुधारित उत्तर पुन्हा तपासावे.\n\nउदाहरण Prompt:\n'तुमचे मागील उत्तर पुन्हा तपासा. त्यातील अपूर्ण मुद्दे आणि संभाव्य चुका शोधा. आवश्यक माहिती समाविष्ट करून अधिक स्पष्ट, सविस्तर आणि व्यावहारिक उत्तर द्या.'\n\nया पद्धतीमुळे पहिल्या उत्तरापेक्षा अधिक उपयुक्त उत्तर मिळवण्यास मदत होते. महत्त्वाची माहिती मात्र स्वतंत्रपणे पडताळून पाहावी.",
+      "marks": 5,
+      "difficulty": "important"
     },
     {
       "id": "Q-015",
-      "question": "How do I ask for a Marathi explanation?",
-      "answer": "Specify the language directly, for example: explain this in simple Marathi and retain important technical terms in English."
-    },
-    {
-      "id": "Q-016",
-      "question": "Can ChatGPT summarize notes?",
-      "answer": "Yes. Provide the notes and specify the summary length, structure and whether key terms or examples should be retained."
-    },
-    {
-      "id": "Q-017",
-      "question": "What should I do when an answer is too generic?",
-      "answer": "Add your context, share a concrete example, define success criteria and ask for a more specific response."
-    },
-    {
-      "id": "Q-018",
-      "question": "What is hallucination in AI?",
-      "answer": "A hallucination is a confident-sounding AI response that includes information that is false, unsupported or invented."
-    },
-    {
-      "id": "Q-019",
-      "question": "How can I get more reliable answers?",
-      "answer": "Give clear context, ask for assumptions to be stated, request sources when appropriate and independently verify critical claims."
-    },
-    {
-      "id": "Q-020",
-      "question": "What is the best way to learn ChatGPT?",
-      "answer": "Practice with real tasks, compare different prompts, review the outputs and keep a library of prompts that work well."
+      "question": "Reusable Prompt म्हणजे काय? त्याचे फायदे आणि उपयोग स्पष्ट करा.",
+      "answer": "Reusable Prompt म्हणजे एखादे काम वारंवार करताना पुन्हा वापरता येईल असा तयार केलेला Prompt. एकदा चांगला Prompt तयार झाल्यानंतर तो जतन करून त्यामध्ये आवश्यकतेनुसार फक्त बदल करायचे आणि पुन्हा वापरायचे.\n\nReusable Prompt चे फायदे:\n1. वेळेची बचत होते.\n2. प्रत्येक वेळी सुरुवातीपासून Prompt लिहावा लागत नाही.\n3. कामामध्ये सातत्य राखता येते.\n4. एकाच प्रकारचे काम पुन्हा करता येते.\n5. चांगले Prompts एका ठिकाणी जतन करता येतात.\n6. गरजेनुसार Prompt सुधारून त्याची नवीन आवृत्ती तयार करता येते.\n\nउदाहरणे:\n- दर आठवड्याला Social Media Content तयार करण्यासाठी Prompt.\n- दर महिन्याला Sales Report चे Analysis करण्यासाठी Prompt.\n- नवीन विषय शिकण्यासाठी Learning Plan तयार करण्याचा Prompt.\n- Professional Email तयार करण्यासाठी Prompt.\n\nअशा प्रकारे Reusable Prompts आणि Systems तयार केल्यामुळे AI चा वापर अधिक नियोजनबद्ध आणि कार्यक्षम पद्धतीने करता येतो.",
+      "marks": 5,
+      "difficulty": "important"
     }
   ],
   "certificateUrl": "",
