@@ -8,23 +8,6 @@
   "officialUrl": "https://chatgpt.com",
   "description": "ChatGPT is an AI assistant that can understand instructions and help with writing, learning, brainstorming, coding, analysis and everyday productivity.",
   "usage": "Start with a clear goal, provide relevant context, describe the expected output and add constraints such as tone, length or format. Review the response and refine the prompt when needed.",
-  "examples": [
-    {
-      "id": "EX-001",
-      "title": "Professional email",
-      "content": "Act as a business communication assistant. Draft a polite email requesting a project status update. Keep it under 120 words and include a clear subject line."
-    },
-    {
-      "id": "EX-002",
-      "title": "Learn a concept",
-      "content": "Explain JavaScript closures in simple Marathi with one practical example, then give me three short practice questions."
-    },
-    {
-      "id": "EX-003",
-      "title": "Improve a prompt",
-      "content": "Review this prompt for ambiguity. Suggest a clearer version and explain what changed: [paste prompt here]."
-    }
-  ],
   "questions": [
     {
       "id": "Q-001",
