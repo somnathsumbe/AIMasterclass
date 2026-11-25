@@ -1,0 +1,134 @@
+{
+  "id": "AI-003",
+  "toolName": "Perplexity",
+  "category": "AI Search",
+  "classTitle": "AI Search & Research with Perplexity",
+  "lectureNumber": 3,
+  "lectureDate": "2026-11-22",
+  "officialUrl": "https://www.perplexity.ai",
+  "description": "Perplexity is an AI-powered answer and research engine that combines natural-language responses with cited web sources in supported search experiences.",
+  "usage": "Ask a focused research question. Review the generated answer and open its cited sources to check the original context, publication date and credibility.",
+  "examples": [
+    {
+      "id": "EX-001",
+      "title": "Compare technologies",
+      "content": "Compare React and Vue for a medium-sized dashboard application. Include learning curve, ecosystem, performance considerations and sources."
+    },
+    {
+      "id": "EX-002",
+      "title": "Current research",
+      "content": "Find recent developments in browser-based AI tools. Prioritize primary sources and show publication dates."
+    },
+    {
+      "id": "EX-003",
+      "title": "Understand a topic",
+      "content": "Explain retrieval-augmented generation (RAG), show a simple architecture and cite trustworthy introductory references."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q-001",
+      "question": "What is Perplexity?",
+      "answer": "Perplexity is an AI-powered search and answer engine that responds to natural-language questions and provides source links in supported experiences."
+    },
+    {
+      "id": "Q-002",
+      "question": "How is Perplexity different from a traditional search engine?",
+      "answer": "It synthesizes information into a conversational answer, while traditional search engines primarily present ranked links to pages."
+    },
+    {
+      "id": "Q-003",
+      "question": "Why are citations important?",
+      "answer": "Citations let readers inspect the original material, confirm context and judge whether a claim is supported."
+    },
+    {
+      "id": "Q-004",
+      "question": "Should I trust every cited source?",
+      "answer": "No. Open each source and assess its authority, relevance, date and evidence."
+    },
+    {
+      "id": "Q-005",
+      "question": "What is a focused research question?",
+      "answer": "It clearly defines the topic, scope, timeframe and the information you need."
+    },
+    {
+      "id": "Q-006",
+      "question": "How can I research a current topic?",
+      "answer": "Mention the required timeframe and check publication dates and original sources in the results."
+    },
+    {
+      "id": "Q-007",
+      "question": "What is source triangulation?",
+      "answer": "It is checking an important claim against multiple independent and credible sources."
+    },
+    {
+      "id": "Q-008",
+      "question": "Can Perplexity help compare products?",
+      "answer": "It can help organize a comparison, but confirm specifications, availability and prices on official product pages."
+    },
+    {
+      "id": "Q-009",
+      "question": "What is a primary source?",
+      "answer": "A primary source is original material such as official documentation, a research paper, a government dataset or a company announcement."
+    },
+    {
+      "id": "Q-010",
+      "question": "What is a secondary source?",
+      "answer": "A secondary source interprets, summarizes or analyzes primary information."
+    },
+    {
+      "id": "Q-011",
+      "question": "How should I verify a statistic?",
+      "answer": "Open the cited source, locate the original dataset or report, check the date and confirm how the statistic was calculated."
+    },
+    {
+      "id": "Q-012",
+      "question": "Can Perplexity summarize a topic?",
+      "answer": "Yes. Ask for a concise overview and request sources for key claims."
+    },
+    {
+      "id": "Q-013",
+      "question": "What is a research follow-up?",
+      "answer": "It is a more specific question that explores an aspect of the initial answer in greater depth."
+    },
+    {
+      "id": "Q-014",
+      "question": "Why does the date of a source matter?",
+      "answer": "Information about software, pricing, policies and current events can change, so freshness affects reliability."
+    },
+    {
+      "id": "Q-015",
+      "question": "What is a biased source?",
+      "answer": "A source may selectively present evidence or use framing that favors a particular viewpoint."
+    },
+    {
+      "id": "Q-016",
+      "question": "How do I avoid a broad answer?",
+      "answer": "Limit the question by geography, timeframe, audience, use case or comparison criteria."
+    },
+    {
+      "id": "Q-017",
+      "question": "Can Perplexity replace expert advice?",
+      "answer": "No. It can support research, but it does not replace qualified professional judgment in high-stakes situations."
+    },
+    {
+      "id": "Q-018",
+      "question": "What should I do if sources disagree?",
+      "answer": "Compare their methods, dates and evidence, then explain the disagreement rather than hiding it."
+    },
+    {
+      "id": "Q-019",
+      "question": "What is an evidence-based answer?",
+      "answer": "It is an answer whose important claims are supported by verifiable evidence."
+    },
+    {
+      "id": "Q-020",
+      "question": "What is a good research workflow?",
+      "answer": "Define the question, gather sources, inspect primary evidence, compare findings and record conclusions with links."
+    }
+  ],
+  "certificateUrl": "",
+  "status": "active",
+  "mark": "P",
+  "color": "teal"
+}
