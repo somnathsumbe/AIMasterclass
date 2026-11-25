@@ -8,23 +8,6 @@
   "officialUrl": "https://copilot.microsoft.com",
   "description": "Microsoft Copilot is Microsoft's AI assistant experience. Available capabilities vary across consumer, Windows and Microsoft 365 experiences and account plans.",
   "usage": "Open the Copilot experience available to your account, describe the task and provide context. For Microsoft 365 workflows, confirm which apps and license features are enabled in your organization.",
-  "examples": [
-    {
-      "id": "EX-001",
-      "title": "Create a project plan",
-      "content": "Create a project plan for a responsive website redesign. Include phases, tasks, dependencies, risks and measurable outcomes."
-    },
-    {
-      "id": "EX-002",
-      "title": "Meeting summary template",
-      "content": "Create a meeting summary template with decisions, action items, owners and due dates."
-    },
-    {
-      "id": "EX-003",
-      "title": "Explain a concept",
-      "content": "Explain the difference between CSS Flexbox and CSS Grid with practical layout examples and a decision guide."
-    }
-  ],
   "questions": [
     {
       "id": "Q-001",
