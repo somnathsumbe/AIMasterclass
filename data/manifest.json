@@ -1,0 +1,67 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-11-25",
+  "description": "AI Masterclass tool manifest. Each tool is stored in an independent JSON file.",
+  "tools": [
+    {
+      "id": "AI-001",
+      "name": "ChatGPT",
+      "slug": "chatgpt",
+      "category": "AI Assistant",
+      "classTitle": "Prompt Engineering with ChatGPT",
+      "lectureNumber": 1,
+      "lectureDate": "2026-11-25",
+      "officialUrl": "https://chatgpt.com",
+      "file": "data/tools/chatgpt.json",
+      "status": "active"
+    },
+    {
+      "id": "AI-002",
+      "name": "Google Gemini",
+      "slug": "gemini",
+      "category": "AI Assistant",
+      "classTitle": "AI Productivity with Gemini",
+      "lectureNumber": 2,
+      "lectureDate": "2026-11-24",
+      "officialUrl": "https://gemini.google.com",
+      "file": "data/tools/gemini.json",
+      "status": "active"
+    },
+    {
+      "id": "AI-003",
+      "name": "Perplexity",
+      "slug": "perplexity",
+      "category": "AI Search",
+      "classTitle": "AI Search & Research with Perplexity",
+      "lectureNumber": 3,
+      "lectureDate": "2026-11-22",
+      "officialUrl": "https://www.perplexity.ai",
+      "file": "data/tools/perplexity.json",
+      "status": "active"
+    },
+    {
+      "id": "AI-004",
+      "name": "Claude",
+      "slug": "claude",
+      "category": "AI Assistant",
+      "classTitle": "AI Writing & Reasoning with Claude",
+      "lectureNumber": 4,
+      "lectureDate": "2026-11-21",
+      "officialUrl": "https://claude.ai",
+      "file": "data/tools/claude.json",
+      "status": "active"
+    },
+    {
+      "id": "AI-005",
+      "name": "Microsoft Copilot",
+      "slug": "copilot",
+      "category": "AI Productivity",
+      "classTitle": "AI Productivity with Microsoft Copilot",
+      "lectureNumber": 5,
+      "lectureDate": "2026-11-20",
+      "officialUrl": "https://copilot.microsoft.com",
+      "file": "data/tools/copilot.json",
+      "status": "active"
+    }
+  ]
+}
