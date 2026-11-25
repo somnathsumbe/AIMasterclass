@@ -62,6 +62,18 @@
       "officialUrl": "https://copilot.microsoft.com",
       "file": "data/tools/copilot.json",
       "status": "active"
+    },
+    {
+      "id": "AI-006",
+      "name": "Google Pomelli AI",
+      "slug": "pomelli",
+      "category": "AI Marketing Tool",
+      "classTitle": "Introduction to Google Pomelli AI – Beginner Certificate",
+      "lectureNumber": 1,
+      "lectureDate": "2026-11-21",
+      "officialUrl": "https://labs.google/pomelli/about",
+      "file": "data/tools/pomelli.json",
+      "status": "active"
     }
   ]
 }
