@@ -1,0 +1,134 @@
+{
+  "id": "AI-005",
+  "toolName": "Microsoft Copilot",
+  "category": "AI Productivity",
+  "classTitle": "AI Productivity with Microsoft Copilot",
+  "lectureNumber": 5,
+  "lectureDate": "2026-11-20",
+  "officialUrl": "https://copilot.microsoft.com",
+  "description": "Microsoft Copilot is Microsoft's AI assistant experience. Available capabilities vary across consumer, Windows and Microsoft 365 experiences and account plans.",
+  "usage": "Open the Copilot experience available to your account, describe the task and provide context. For Microsoft 365 workflows, confirm which apps and license features are enabled in your organization.",
+  "examples": [
+    {
+      "id": "EX-001",
+      "title": "Create a project plan",
+      "content": "Create a project plan for a responsive website redesign. Include phases, tasks, dependencies, risks and measurable outcomes."
+    },
+    {
+      "id": "EX-002",
+      "title": "Meeting summary template",
+      "content": "Create a meeting summary template with decisions, action items, owners and due dates."
+    },
+    {
+      "id": "EX-003",
+      "title": "Explain a concept",
+      "content": "Explain the difference between CSS Flexbox and CSS Grid with practical layout examples and a decision guide."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q-001",
+      "question": "What is Microsoft Copilot?",
+      "answer": "Microsoft Copilot is Microsoft's family of AI assistant experiences that help users with information, content creation and productivity."
+    },
+    {
+      "id": "Q-002",
+      "question": "Where can I access Copilot?",
+      "answer": "Availability depends on the experience and account. The consumer entry point is copilot.microsoft.com."
+    },
+    {
+      "id": "Q-003",
+      "question": "Is every Copilot feature free?",
+      "answer": "No. Features, usage limits and integrations vary by product, subscription, region and organization settings."
+    },
+    {
+      "id": "Q-004",
+      "question": "Can Copilot help write content?",
+      "answer": "Yes. It can draft, rewrite, summarize and organize content based on the instructions and context provided."
+    },
+    {
+      "id": "Q-005",
+      "question": "What is Microsoft 365 Copilot?",
+      "answer": "It is a Copilot offering integrated with supported Microsoft 365 apps and organizational data, subject to licensing and configuration."
+    },
+    {
+      "id": "Q-006",
+      "question": "Is consumer Copilot the same as Microsoft 365 Copilot?",
+      "answer": "No. They are related experiences but differ in integrations, features, licensing and data context."
+    },
+    {
+      "id": "Q-007",
+      "question": "Can Copilot help with presentations?",
+      "answer": "Supported Microsoft 365 Copilot experiences can assist with presentation creation and editing, depending on the plan and app."
+    },
+    {
+      "id": "Q-008",
+      "question": "Can Copilot help with Excel?",
+      "answer": "Some Microsoft 365 Copilot experiences can help analyze data and work with formulas, subject to eligibility and product support."
+    },
+    {
+      "id": "Q-009",
+      "question": "Can Copilot generate code?",
+      "answer": "It can assist with code explanations and generation. Microsoft also offers GitHub Copilot, a separate coding-focused product."
+    },
+    {
+      "id": "Q-010",
+      "question": "What is GitHub Copilot?",
+      "answer": "GitHub Copilot is an AI coding assistant integrated into supported development environments and GitHub workflows."
+    },
+    {
+      "id": "Q-011",
+      "question": "How do I write a good Copilot prompt?",
+      "answer": "Describe the task, context, audience, constraints and the format you want."
+    },
+    {
+      "id": "Q-012",
+      "question": "Can Copilot summarize a meeting?",
+      "answer": "Supported Microsoft 365 experiences can summarize meetings when the required services, permissions and licensing are enabled."
+    },
+    {
+      "id": "Q-013",
+      "question": "Why do Copilot features differ between accounts?",
+      "answer": "Feature availability can depend on subscription, region, app version, admin settings and rollout status."
+    },
+    {
+      "id": "Q-014",
+      "question": "Should I enter confidential work data?",
+      "answer": "Follow your organization's approved tools, data policies and account protections before sharing confidential information."
+    },
+    {
+      "id": "Q-015",
+      "question": "Can Copilot explain a spreadsheet formula?",
+      "answer": "You can ask it to explain a formula, but verify the explanation against the actual workbook and calculations."
+    },
+    {
+      "id": "Q-016",
+      "question": "What is an AI-generated draft?",
+      "answer": "It is a first version created by AI that should be reviewed and edited before being shared."
+    },
+    {
+      "id": "Q-017",
+      "question": "How can Copilot improve productivity?",
+      "answer": "It can reduce time spent on drafting, summarizing, planning and finding information in supported workflows."
+    },
+    {
+      "id": "Q-018",
+      "question": "Does Copilot always provide correct answers?",
+      "answer": "No. AI output can be inaccurate or incomplete and should be checked."
+    },
+    {
+      "id": "Q-019",
+      "question": "What is the difference between Copilot and a search engine?",
+      "answer": "Copilot generates conversational assistance, while a search engine primarily helps find and rank web pages."
+    },
+    {
+      "id": "Q-020",
+      "question": "How should I evaluate Copilot's output?",
+      "answer": "Check accuracy, completeness, source quality, privacy implications and whether the result meets your task requirements."
+    }
+  ],
+  "certificateUrl": "",
+  "status": "active",
+  "mark": "M",
+  "color": "violet"
+}
