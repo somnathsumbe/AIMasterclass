@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Your personal AI Masterclass study dashboard with tools, notes and question answers.">
+  <meta name="theme-color" content="#f8fafc">
+  <title>AI Masterclass — Learning Dashboard</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>tailwind.config={darkMode:'class',theme:{extend:{fontFamily:{sans:['Inter','ui-sans-serif','system-ui']},boxShadow:{soft:'0 8px 30px rgba(15,23,42,.06)'}}}};</script>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body class="min-h-screen bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100">
+  <div class="min-h-screen">
+    <aside class="sidebar hidden lg:flex">
+      <a href="#" class="brand"><span class="brand-mark">AI</span><span><strong>AI Masterclass</strong><small>Learning Library</small></span></a>
+      <p class="nav-label">WORKSPACE</p>
+      <nav class="nav-links">
+        <a class="nav-link active" href="#dashboard">▦ <span>Dashboard</span></a>
+        <a class="nav-link" href="#tools">◇ <span>All AI Tools</span></a>
+        <a class="nav-link" href="#progress">✓ <span>Learning Progress</span></a>
+        <a class="nav-link" href="#certificates">✧ <span>Certificates</span></a>
+      </nav>
+      <div class="sidebar-note"><strong>Your learning space</strong><p>तुमच्या AI Classes, Notes आणि प्रश्नोत्तरांचा वैयक्तिक संग्रह.</p></div>
+    </aside>
+    <main class="main-content">
+      <header class="topbar">
+        <div class="mobile-brand"><span class="brand-mark">AI</span><span><strong>AI Masterclass</strong><small>Personal Study Dashboard</small></span></div>
+        <div class="topbar-right"><span class="hidden sm:block text-xs text-slate-500 dark:text-slate-400">Your learning workspace</span><button id="themeToggle" class="icon-button" aria-label="Toggle dark theme">☾</button></div>
+      </header>
+      <div class="page-wrap">
+        <section id="dashboard" class="hero">
+          <div><p class="eyebrow">LEARNING OVERVIEW</p><h1>नमस्कार! चला शिकूया. <span>👋</span></h1><p class="hero-subtitle">तुमचे AI Tools, Classes आणि Study Notes एकाच ठिकाणी.</p></div>
+          <a href="#tools" class="primary-button">⌕ &nbsp; Find a tool</a>
+        </section>
+        <section class="stats-grid" aria-label="Learning statistics">
+          <article class="stat-card"><div class="stat-top"><span>Total AI Tools</span><span class="stat-icon indigo">◇</span></div><strong id="totalCount">—</strong><small>Independent JSON library</small></article>
+          <article class="stat-card"><div class="stat-top"><span>Completed Classes</span><span class="stat-icon green">✓</span></div><strong id="completedCount">0</strong><small>Your learning progress</small></article>
+          <article class="stat-card"><div class="stat-top"><span>Pending Classes</span><span class="stat-icon amber">◷</span></div><strong id="pendingCount">—</strong><small>Continue learning</small></article>
+          <article class="stat-card"><div class="stat-top"><span>Question Bank</span><span class="stat-icon violet">?</span></div><strong id="questionCount">—</strong><small>Practice questions</small></article>
+        </section>
+        <section id="tools" class="panel">
+          <div class="section-heading"><div><h2>Explore AI Tools</h2><p>तुमच्या अभ्यासासाठी उपलब्ध Tools शोधा.</p></div><div class="view-switch"><button id="cardView" class="view-button selected">▦ Cards</button><button id="listView" class="view-button">☰ List</button></div></div>
+          <div class="filter-grid">
+            <label class="search-box"><span>⌕</span><input id="searchInput" type="search" placeholder="Search tool, class or category..." autocomplete="off"></label>
+            <label class="filter-field"><span>Lecture date</span><input id="dateFilter" type="date"></label>
+            <label class="filter-field"><span>Sort by</span><select id="sortOrder"><option value="newest">Date: Newest first</option><option value="oldest">Date: Oldest first</option><option value="az">Name: A to Z</option><option value="za">Name: Z to A</option></select></label>
+          </div>
+          <div class="results-row"><p><strong id="resultCount">0</strong> tools found</p><button id="clearFilters" class="text-button">Clear filters</button></div>
+          <div id="toolsContainer" class="tools-grid" aria-live="polite"><div class="loading-state">Loading your AI tools…</div></div>
+          <div id="emptyState" class="empty-state hidden"><span>⌕</span><strong>No tools found</strong><p>Search किंवा date filter बदला.</p></div>
+          <div id="loadError" class="error-state hidden" role="alert"></div>
+        </section>
+        <section id="progress" class="progress-banner"><span class="progress-symbol">✓</span><div><strong>तुमचा अभ्यास, तुमच्या गतीने.</strong><p>एखादा Class पूर्ण झाल्यावर त्याची नोंद करा. Progress या Browser मध्ये सेव्ह राहील.</p></div></section>
+        <section id="certificates" class="certificate-note"><span>✧</span><div><strong>Certificates</strong><p>तुमच्या कोर्सकडून मिळालेल्या Certificate PDF Links पुढील आवृत्तीत जोडता येतील.</p></div></section>
+        <footer>AI Masterclass · Personal Learning Library <span>Prototype v1.0</span></footer>
+      </div>
+    </main>
+  </div>
+  <div id="detailModal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="detailTitle">
+    <div class="modal-backdrop" data-close-modal></div>
+    <article class="modal-panel">
+      <div class="modal-header"><div><p class="eyebrow">CLASS NOTES</p><h2 id="detailTitle">Tool details</h2></div><button id="closeModal" class="icon-button" aria-label="Close details">×</button></div>
+      <div id="detailContent" class="modal-content"></div>
+    </article>
+  </div>
+  <script src="assets/js/app.js" defer></script>
+</body></html>
