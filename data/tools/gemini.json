@@ -1,0 +1,134 @@
+{
+  "id": "AI-002",
+  "toolName": "Google Gemini",
+  "category": "AI Assistant",
+  "classTitle": "AI Productivity with Gemini",
+  "lectureNumber": 2,
+  "lectureDate": "2026-11-24",
+  "officialUrl": "https://gemini.google.com",
+  "description": "Google Gemini is Google's AI assistant family. It can help with understanding information, writing, planning, learning, coding and supported multimodal tasks.",
+  "usage": "Open Gemini, describe the task and include the context or files supported by your account. Ask follow-up questions to refine the result and verify important information before using it.",
+  "examples": [
+    {
+      "id": "EX-001",
+      "title": "Research outline",
+      "content": "Create a beginner-friendly research outline about renewable energy. Include key questions, sections and reliable source types to consult."
+    },
+    {
+      "id": "EX-002",
+      "title": "Study helper",
+      "content": "Teach me the basics of CSS Grid in simple Marathi. Use a small layout example and finish with five revision questions."
+    },
+    {
+      "id": "EX-003",
+      "title": "Meeting preparation",
+      "content": "Prepare a 30-minute meeting agenda for a UI project review. Include objectives, discussion points and decisions to record."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q-001",
+      "question": "What is Google Gemini?",
+      "answer": "Google Gemini is Google's family of AI models and assistant experiences designed to understand and generate content across supported tasks and modalities."
+    },
+    {
+      "id": "Q-002",
+      "question": "What can Gemini help me do?",
+      "answer": "It can assist with writing, summarizing, brainstorming, learning, planning, coding and supported image or file-based tasks."
+    },
+    {
+      "id": "Q-003",
+      "question": "Where can I access Gemini?",
+      "answer": "You can access the consumer Gemini experience at gemini.google.com, subject to regional and account availability."
+    },
+    {
+      "id": "Q-004",
+      "question": "Is Gemini the same as Google Search?",
+      "answer": "No. Search retrieves and ranks web pages, while Gemini generates responses. Gemini may use search-grounded information in supported experiences."
+    },
+    {
+      "id": "Q-005",
+      "question": "What is multimodal AI?",
+      "answer": "Multimodal AI can work with more than one type of input or output, such as text, images, audio or video, depending on the model."
+    },
+    {
+      "id": "Q-006",
+      "question": "How should I write a Gemini prompt?",
+      "answer": "State the goal, add context, specify the audience and describe the expected output format."
+    },
+    {
+      "id": "Q-007",
+      "question": "Can Gemini help with studying?",
+      "answer": "Yes. You can ask it to explain topics, create revision notes, generate practice questions and build study plans."
+    },
+    {
+      "id": "Q-008",
+      "question": "Can Gemini summarize a document?",
+      "answer": "Supported Gemini experiences can summarize uploaded or connected content. Check the current account limits and file support."
+    },
+    {
+      "id": "Q-009",
+      "question": "Can Gemini generate code?",
+      "answer": "Yes. It can draft code, explain programming concepts and suggest fixes, but generated code should be tested."
+    },
+    {
+      "id": "Q-010",
+      "question": "What is a follow-up prompt?",
+      "answer": "A follow-up prompt adds clarification or a new instruction after the initial response."
+    },
+    {
+      "id": "Q-011",
+      "question": "Why should I verify Gemini's answers?",
+      "answer": "AI-generated responses may be incomplete or inaccurate. Verification is important for technical, financial, legal and time-sensitive information."
+    },
+    {
+      "id": "Q-012",
+      "question": "Can Gemini understand images?",
+      "answer": "Supported Gemini models can interpret image inputs, though capability and limits depend on the product and model version."
+    },
+    {
+      "id": "Q-013",
+      "question": "How can I ask for a table?",
+      "answer": "Add an explicit instruction such as: organize the comparison into a table with columns for feature, benefit and limitation."
+    },
+    {
+      "id": "Q-014",
+      "question": "What is a good use of Gemini for productivity?",
+      "answer": "It can help turn rough ideas into plans, summarize information and draft routine communications."
+    },
+    {
+      "id": "Q-015",
+      "question": "Can Gemini explain a difficult topic simply?",
+      "answer": "Yes. Ask for a beginner-friendly explanation, an analogy and a practical example."
+    },
+    {
+      "id": "Q-016",
+      "question": "What is responsible AI use?",
+      "answer": "It means using AI transparently and carefully, protecting private information and checking outputs before relying on them."
+    },
+    {
+      "id": "Q-017",
+      "question": "Should I paste confidential company data?",
+      "answer": "Only if your organization's policies and the product's data controls permit it. Avoid sharing sensitive information unnecessarily."
+    },
+    {
+      "id": "Q-018",
+      "question": "Can Gemini help create quizzes?",
+      "answer": "Yes. Ask for questions at a chosen difficulty level and request an answer key with explanations."
+    },
+    {
+      "id": "Q-019",
+      "question": "What makes a prompt specific?",
+      "answer": "A specific prompt defines the task, context, constraints and success criteria rather than using a vague request."
+    },
+    {
+      "id": "Q-020",
+      "question": "How do I improve a weak Gemini response?",
+      "answer": "Explain what is missing, provide an example of the desired result and ask for a revised answer."
+    }
+  ],
+  "certificateUrl": "",
+  "status": "active",
+  "mark": "G",
+  "color": "blue"
+}
