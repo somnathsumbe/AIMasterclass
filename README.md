@@ -2,26 +2,32 @@
 
 A personal AI learning library built with HTML5, Tailwind CSS, custom CSS, JavaScript ES6 and independent JSON files.
 
+## Live website
+
+After GitHub Pages is enabled and the first deployment succeeds:
+https://somnathsumbe.github.io/AIMasterclass/
+
 ## Features
 
-- Dashboard with tool cards and list view
+- Responsive dashboard with tool cards and list view
 - Search by tool name, class title and category
-- Lecture-date filter and ascending/descending sorting
+- Sort by lecture date or tool name
 - Independent JSON file for every AI tool
-- Tool detail view with information, usage and practical examples
-- One-question-at-a-time Q&A navigation
+- Tool detail view with Marathi notes and Q&A
+- One-question-at-a-time navigation and numbered pagination
 - Completed class tracking with browser LocalStorage
 - Light and dark themes
 - Responsive desktop and mobile layout
 
-## Included sample data
+## Included AI tools
 
-The starter library contains 5 AI tools and 20 general Q&A items per tool (100 questions total):
+The library currently contains 6 tools:
 1. ChatGPT
 2. Google Gemini
-3. Perplexity
+3. Perplexity AI
 4. Claude
 5. Microsoft Copilot
+6. Google Pomelli AI
 
 ## Run locally
 
@@ -53,6 +59,12 @@ Then open http://localhost:5500.
 - Learning completion and theme preference are stored in the current browser's LocalStorage.
 - Tool content is stored as static JSON files in this repository.
 - No login, backend, analytics or remote database is included.
+
+## GitHub Pages deployment
+
+The `.github/workflows/deploy-pages.yml` workflow deploys the static site automatically whenever code is pushed to `main`.
+
+In the repository, open **Settings → Pages** and set **Build and deployment → Source** to **GitHub Actions**. Then open **Actions** and confirm the **Deploy AI Masterclass to GitHub Pages** workflow completes successfully.
 
 ## Tailwind CSS note
 
