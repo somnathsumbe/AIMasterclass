@@ -29,8 +29,8 @@
     </header>
     <div id="dashboardView" class="page-wrap">
       <section id="dashboard" class="hero">
-        <div><p class="eyebrow">LEARNING OVERVIEW</p><h1>नमस्कार! चला शिकूया. <span>👋</span></h1><p class="hero-subtitle">तुमचे AI Tools, Classes आणि Study Notes एकाच ठिकाणी.</p></div>
-        <a href="#tools" class="primary-button">⌕ &nbsp; Tool शोधा</a>
+        <div class="hero-copy"><p class="eyebrow">तुमचा AI शिकण्याचा प्रवास</p><h1>नमस्कार! चला शिकूया. <span>👋</span></h1><p class="hero-subtitle">अगदी सोप्या पद्धतीने AI शिका, प्रश्न समजून घ्या आणि रोज थोडी प्रगती करा.</p><div class="hero-chips"><span>✨ सोपे धडे</span><span>🧠 प्रश्नोत्तरे</span><span>🚀 स्वतःच्या गतीने</span></div></div><div class="hero-mascot" aria-hidden="true"><span class="mascot-spark spark-one">✦</span><span class="mascot-spark spark-two">✧</span><div class="mascot-robot"><span class="robot-antenna"></span><span class="robot-face"><i></i><i></i><b></b></span></div><span class="mascot-caption">तुमचा AI मित्र!</span></div>
+        <a href="#tools" class="primary-button">🔎 &nbsp; Tool शोधा</a>
       </section>
       <section class="stats-grid" aria-label="Learning statistics">
         <article class="stat-card"><div class="stat-top"><span>एकूण AI Tools</span><span class="stat-icon indigo">◇</span></div><strong id="totalCount">—</strong><small>तुमच्या अभ्यासातील Tools</small></article>
@@ -39,11 +39,10 @@
         <article class="stat-card"><div class="stat-top"><span>एकूण प्रश्न</span><span class="stat-icon violet">?</span></div><strong id="questionCount">—</strong><small>प्रश्न आणि उत्तरे</small></article>
       </section>
       <section id="tools" class="panel">
-        <div class="section-heading"><div><p class="eyebrow">YOUR LIBRARY</p><h2>Explore AI Tools</h2><p>तुमच्या अभ्यासासाठी उपलब्ध Tools शोधा.</p></div><div class="view-switch"><button id="cardView" class="view-button selected">▦ Cards</button><button id="listView" class="view-button">☰ List</button></div></div>
+        <div class="section-heading"><div><p class="eyebrow">YOUR LIBRARY</p><h2>चला, AI Tools शिकूया!</h2><p>तुम्हाला हवे ते Tool निवडा आणि सोप्या भाषेत शिकायला सुरुवात करा.</p></div><div class="view-switch"><button id="cardView" class="view-button selected">▦ Cards</button><button id="listView" class="view-button">☰ List</button></div></div>
         <div class="filter-grid">
           <label class="search-box"><span>⌕</span><input id="searchInput" type="search" placeholder="Tool, class किंवा category शोधा..." autocomplete="off"></label>
-          <label class="filter-field"><span>Lecture Date</span><input id="dateFilter" type="date"></label>
-          <label class="filter-field"><span>Sort By</span><select id="sortOrder"><option value="newest">Date: Newest first</option><option value="oldest">Date: Oldest first</option><option value="az">Name: A to Z</option><option value="za">Name: Z to A</option></select></label>
+                    <label class="filter-field"><span>Sort By</span><select id="sortOrder"><option value="newest">Date: Newest first</option><option value="oldest">Date: Oldest first</option><option value="az">Name: A to Z</option><option value="za">Name: Z to A</option></select></label>
         </div>
         <div class="results-row"><p><strong id="resultCount">0</strong> Tools मिळाले</p><button id="clearFilters" class="text-button">Filters Clear करा</button></div>
         <div id="toolsContainer" class="tools-grid" aria-live="polite"><div class="loading-state">AI Tools लोड होत आहेत…</div></div>
