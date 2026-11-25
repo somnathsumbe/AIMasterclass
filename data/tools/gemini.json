@@ -8,23 +8,6 @@
   "officialUrl": "https://gemini.google.com",
   "description": "Google Gemini is Google's AI assistant family. It can help with understanding information, writing, planning, learning, coding and supported multimodal tasks.",
   "usage": "Open Gemini, describe the task and include the context or files supported by your account. Ask follow-up questions to refine the result and verify important information before using it.",
-  "examples": [
-    {
-      "id": "EX-001",
-      "title": "Research outline",
-      "content": "Create a beginner-friendly research outline about renewable energy. Include key questions, sections and reliable source types to consult."
-    },
-    {
-      "id": "EX-002",
-      "title": "Study helper",
-      "content": "Teach me the basics of CSS Grid in simple Marathi. Use a small layout example and finish with five revision questions."
-    },
-    {
-      "id": "EX-003",
-      "title": "Meeting preparation",
-      "content": "Prepare a 30-minute meeting agenda for a UI project review. Include objectives, discussion points and decisions to record."
-    }
-  ],
   "questions": [
     {
       "id": "Q-001",
