@@ -8,23 +8,6 @@
   "officialUrl": "https://www.perplexity.ai",
   "description": "Perplexity is an AI-powered answer and research engine that combines natural-language responses with cited web sources in supported search experiences.",
   "usage": "Ask a focused research question. Review the generated answer and open its cited sources to check the original context, publication date and credibility.",
-  "examples": [
-    {
-      "id": "EX-001",
-      "title": "Compare technologies",
-      "content": "Compare React and Vue for a medium-sized dashboard application. Include learning curve, ecosystem, performance considerations and sources."
-    },
-    {
-      "id": "EX-002",
-      "title": "Current research",
-      "content": "Find recent developments in browser-based AI tools. Prioritize primary sources and show publication dates."
-    },
-    {
-      "id": "EX-003",
-      "title": "Understand a topic",
-      "content": "Explain retrieval-augmented generation (RAG), show a simple architecture and cite trustworthy introductory references."
-    }
-  ],
   "questions": [
     {
       "id": "Q-001",
