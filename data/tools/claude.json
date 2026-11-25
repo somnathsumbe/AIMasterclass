@@ -1,0 +1,134 @@
+{
+  "id": "AI-004",
+  "toolName": "Claude",
+  "category": "AI Assistant",
+  "classTitle": "AI Writing & Reasoning with Claude",
+  "lectureNumber": 4,
+  "lectureDate": "2026-11-21",
+  "officialUrl": "https://claude.ai",
+  "description": "Claude is an AI assistant by Anthropic that can support writing, analysis, coding, document work and reasoning-oriented tasks.",
+  "usage": "Describe the outcome you need, provide relevant context and share source material when appropriate. Ask Claude to structure the response and identify assumptions or uncertainties.",
+  "examples": [
+    {
+      "id": "EX-001",
+      "title": "Document review",
+      "content": "Review the following project brief. Summarize its goals, list unclear requirements and create a risk checklist: [paste brief]."
+    },
+    {
+      "id": "EX-002",
+      "title": "Code explanation",
+      "content": "Explain this JavaScript function step by step. Identify edge cases and suggest a cleaner implementation without changing behavior: [paste code]."
+    },
+    {
+      "id": "EX-003",
+      "title": "Writing refinement",
+      "content": "Rewrite this paragraph to be clear and professional. Preserve all factual details and list any ambiguous statements separately."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q-001",
+      "question": "What is Claude?",
+      "answer": "Claude is an AI assistant developed by Anthropic for tasks such as writing, analysis, coding and working with information."
+    },
+    {
+      "id": "Q-002",
+      "question": "Who develops Claude?",
+      "answer": "Claude is developed by Anthropic, an AI safety and research company."
+    },
+    {
+      "id": "Q-003",
+      "question": "What tasks can Claude support?",
+      "answer": "It can help draft and edit text, explain concepts, analyze supported documents, brainstorm and assist with programming."
+    },
+    {
+      "id": "Q-004",
+      "question": "How do I get a useful answer from Claude?",
+      "answer": "Give a clear task, relevant context, constraints and an example of the desired output when useful."
+    },
+    {
+      "id": "Q-005",
+      "question": "What is a long-context task?",
+      "answer": "It is a task that requires the model to consider a comparatively large amount of supplied information."
+    },
+    {
+      "id": "Q-006",
+      "question": "Can Claude review code?",
+      "answer": "Yes. It can explain code, identify potential issues and suggest improvements. Run tests before accepting changes."
+    },
+    {
+      "id": "Q-007",
+      "question": "Can Claude help with technical documentation?",
+      "answer": "Yes. It can help organize requirements, explain APIs and draft documentation from supplied source material."
+    },
+    {
+      "id": "Q-008",
+      "question": "What is an assumption?",
+      "answer": "An assumption is something treated as true for the task even though it has not been confirmed."
+    },
+    {
+      "id": "Q-009",
+      "question": "Why ask an AI to list assumptions?",
+      "answer": "It helps reveal missing information and makes it easier to validate the reasoning."
+    },
+    {
+      "id": "Q-010",
+      "question": "Can Claude rewrite content?",
+      "answer": "Yes. Specify the audience, tone, length and facts that must remain unchanged."
+    },
+    {
+      "id": "Q-011",
+      "question": "What is a structured response?",
+      "answer": "A response organized into predictable sections such as summary, steps, risks and recommendations."
+    },
+    {
+      "id": "Q-012",
+      "question": "How can I ask Claude to compare options?",
+      "answer": "Provide the options and criteria, then request a comparison table and a reasoned conclusion."
+    },
+    {
+      "id": "Q-013",
+      "question": "Should I share private documents?",
+      "answer": "Only when permitted by your privacy and organizational policies. Remove sensitive details when possible."
+    },
+    {
+      "id": "Q-014",
+      "question": "Can Claude make factual errors?",
+      "answer": "Yes. Verify important claims against authoritative sources and the original documents."
+    },
+    {
+      "id": "Q-015",
+      "question": "What is a good document-analysis prompt?",
+      "answer": "Ask for a summary, key points, open questions, risks and references to the relevant sections."
+    },
+    {
+      "id": "Q-016",
+      "question": "How do I prevent a rewrite from changing meaning?",
+      "answer": "Tell Claude to preserve facts, names, figures and intent, and ask it to flag unclear source text instead of guessing."
+    },
+    {
+      "id": "Q-017",
+      "question": "Can Claude help plan a software project?",
+      "answer": "Yes. It can help break work into milestones, identify dependencies and draft acceptance criteria."
+    },
+    {
+      "id": "Q-018",
+      "question": "What is an acceptance criterion?",
+      "answer": "It is a testable condition that must be satisfied for a requirement or feature to be considered complete."
+    },
+    {
+      "id": "Q-019",
+      "question": "Why should generated code be tested?",
+      "answer": "Because code may contain defects, security issues or assumptions that do not match your application."
+    },
+    {
+      "id": "Q-020",
+      "question": "How do I improve an incomplete answer?",
+      "answer": "Point out the missing requirement, add context and request a revised response that addresses it explicitly."
+    }
+  ],
+  "certificateUrl": "",
+  "status": "active",
+  "mark": "Cl",
+  "color": "orange"
+}
