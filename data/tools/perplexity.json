@@ -1,113 +1,118 @@
 {
   "id": "AI-003",
-  "toolName": "Perplexity",
-  "category": "AI Search",
-  "classTitle": "AI Search & Research with Perplexity",
-  "lectureNumber": 3,
-  "lectureDate": "2026-11-22",
-  "officialUrl": "https://www.perplexity.ai",
-  "description": "Perplexity is an AI-powered answer and research engine that combines natural-language responses with cited web sources in supported search experiences.",
-  "usage": "Ask a focused research question. Review the generated answer and open its cited sources to check the original context, publication date and credibility.",
+  "toolName": "Perplexity AI",
+  "category": "AI Search Engine",
+  "classTitle": "Introduction to Perplexity AI",
+  "lectureNumber": 1,
+  "lectureDate": "2026-11-23",
+  "officialUrl": "https://www.perplexity.ai/",
+  "description": "Perplexity AI हे Artificial Intelligence आधारित Search आणि Answer Engine आहे. याचा उपयोग इंटरनेटवर माहिती शोधणे, प्रश्नांची उत्तरे मिळवणे, विद्यार्थ्यांना अभ्यासात मदत करणे, Research करणे, नवीन विषय शिकणे, Programming समजून घेणे, PDF आणि Documents चे विश्लेषण करणे आणि विविध विषयांचा सारांश मिळवणे यासाठी करता येतो. Perplexity AI उत्तरांसोबत माहितीचे Sources आणि Citations देखील दाखवते.",
+  "usage": "Perplexity AI वापरण्यासाठी सर्वप्रथम https://www.perplexity.ai/ ही Official Website उघडावी. त्यानंतर Sign Up किंवा Login करावे. Search Box मध्ये आपला प्रश्न सामान्य भाषेत लिहावा आणि Enter दाबावे. Perplexity AI उपलब्ध इंटरनेट स्रोतांचा शोध घेऊन उत्तर तयार करते. उत्तरासोबत दिलेले Sources आणि Citations तपासावेत. अधिक माहिती हवी असल्यास त्याच Chat मध्ये Follow-up Questions विचारावेत. चांगले उत्तर मिळवण्यासाठी स्पष्ट Prompt, आवश्यक Context, अपेक्षित भाषा आणि Output Format सांगावा. विद्यार्थ्यांनी अभ्यास, Research, English Learning, General Knowledge आणि Programming शिकण्यासाठी याचा वापर करावा. AI ने दिलेली महत्त्वाची माहिती विश्वसनीय स्रोतांमधून पडताळून पाहावी.",
   "questions": [
     {
       "id": "Q-001",
-      "question": "What is Perplexity?",
-      "answer": "Perplexity is an AI-powered search and answer engine that responds to natural-language questions and provides source links in supported experiences."
+      "question": "Perplexity AI म्हणजे काय? त्याचे उपयोग स्पष्ट करा.",
+      "answer": "Perplexity AI हे Artificial Intelligence (AI) आधारित Search आणि Answer Engine आहे. याच्या मदतीने आपण इंटरनेटवर विविध प्रकारची माहिती शोधू शकतो आणि सामान्य भाषेत प्रश्न विचारून त्यांची उत्तरे मिळवू शकतो. Perplexity AI उपलब्ध इंटरनेट स्रोतांमधील माहितीचा अभ्यास करून उत्तर तयार करते. उत्तरासोबत संबंधित Sources आणि Citations म्हणजेच मूळ माहितीच्या Links देखील दाखवते.\n\nPerplexity AI चे प्रमुख उपयोग पुढीलप्रमाणे आहेत:\n\n1. Information Search: इंटरनेटवर विविध विषयांची माहिती शोधणे.\n2. Education: विद्यार्थ्यांना गणित, विज्ञान, इतिहास आणि इतर विषय समजून घेण्यासाठी मदत करणे.\n3. Research: एखाद्या विषयावर वेगवेगळ्या स्रोतांमधून संशोधन करणे.\n4. Content Summary: मोठ्या लेखाचा किंवा माहितीचा सारांश तयार करणे.\n5. English Learning: इंग्रजी Grammar, Vocabulary आणि Sentence Formation शिकणे.\n6. Programming: HTML, CSS, JavaScript आणि इतर Programming विषय समजून घेणे.\n7. General Knowledge: देश, जग, विज्ञान आणि Technology बद्दल माहिती मिळवणे.\n8. Comparison: दोन किंवा अधिक Products, Technologies किंवा विषयांची तुलना करणे.\n\nउदाहरण: एखाद्या विद्यार्थ्याला Artificial Intelligence म्हणजे काय हे समजून घ्यायचे असल्यास तो Perplexity AI मध्ये 'Explain Artificial Intelligence in simple Marathi with 5 examples' असा प्रश्न विचारू शकतो. Perplexity AI उपलब्ध स्रोतांच्या आधारे त्याला उत्तर देण्यास मदत करते.",
+      "marks": 5,
+      "difficulty": "basic"
     },
     {
       "id": "Q-002",
-      "question": "How is Perplexity different from a traditional search engine?",
-      "answer": "It synthesizes information into a conversational answer, while traditional search engines primarily present ranked links to pages."
+      "question": "Perplexity AI ची Official Website कोणती आहे? त्यावर Account कसे तयार करायचे?",
+      "answer": "Perplexity AI ची अधिकृत वेबसाइट https://www.perplexity.ai/ आहे. या वेबसाइटच्या माध्यमातून आपण Perplexity AI वापरू शकतो. विद्यार्थ्यांना माहिती शोधण्यासाठी आणि नवीन विषय शिकण्यासाठी ही सेवा उपयोगी पडते.\n\nAccount तयार करण्याची पद्धत:\n\n1. सर्वप्रथम Google Chrome किंवा इतर Browser उघडा.\n2. Address Bar मध्ये https://www.perplexity.ai/ टाइप करा.\n3. Perplexity AI ची अधिकृत वेबसाइट उघडा.\n4. उपलब्ध Sign Up किंवा Login पर्याय निवडा.\n5. वेबसाइटवर उपलब्ध असलेल्या समर्थित पद्धतीने Account तयार करा.\n6. Login झाल्यानंतर Search Box मध्ये आपला प्रश्न लिहा.\n7. Enter दाबून उत्तर मिळवा.\n\nउदाहरण: विद्यार्थ्याला Computer म्हणजे काय हे शिकायचे असल्यास तो Search Box मध्ये 'What is Computer? Explain in simple Marathi' असे लिहू शकतो.\n\nमहत्त्वाची सूचना: नेहमी अधिकृत वेबसाइटच वापरावी. अनोळखी वेबसाइटवर Password किंवा वैयक्तिक माहिती देऊ नये.",
+      "marks": 5,
+      "difficulty": "basic"
     },
     {
       "id": "Q-003",
-      "question": "Why are citations important?",
-      "answer": "Citations let readers inspect the original material, confirm context and judge whether a claim is supported."
+      "question": "Perplexity AI चे प्रमुख उपयोग कोणते आहेत? उदाहरणांसह स्पष्ट करा.",
+      "answer": "Perplexity AI चा वापर शिक्षण, संशोधन, माहिती शोधणे आणि दैनंदिन कामांसाठी करता येतो. विद्यार्थ्यांना नवीन विषय शिकण्यासाठी आणि त्यांचे ज्ञान वाढवण्यासाठी हे एक उपयुक्त AI साधन आहे.\n\nप्रमुख उपयोग:\n\n1. Education: शाळा आणि कॉलेजमधील विषय समजून घेणे.\n2. General Knowledge: भारत आणि जगाविषयी माहिती मिळवणे.\n3. Research: एखाद्या विषयावर सखोल माहिती शोधणे.\n4. English Learning: इंग्रजी शब्द, वाक्ये आणि Grammar शिकणे.\n5. Programming: Coding आणि Programming Concepts शिकणे.\n6. News Research: चालू घडामोडी आणि ताज्या बातम्यांची माहिती शोधणे.\n7. Comparison: दोन विषयांमधील फरक समजून घेणे.\n8. Summarization: मोठ्या माहितीचा छोटा सारांश तयार करणे.\n\nउदाहरणे:\n\nEducation Prompt: Explain the Solar System in simple Marathi.\n\nEnglish Learning Prompt: Teach me 10 daily-use English sentences with Marathi meanings.\n\nProgramming Prompt: Explain JavaScript variables with simple examples.\n\nResearch Prompt: Find reliable information about Artificial Intelligence and explain its benefits.\n\nअशा प्रकारे Perplexity AI चा वापर वेगवेगळ्या शैक्षणिक आणि व्यावसायिक कामांसाठी करता येतो.",
+      "marks": 5,
+      "difficulty": "basic"
     },
     {
       "id": "Q-004",
-      "question": "Should I trust every cited source?",
-      "answer": "No. Open each source and assess its authority, relevance, date and evidence."
+      "question": "Perplexity AI मध्ये प्रश्न कसा विचारायचा? Step-by-Step पद्धत स्पष्ट करा.",
+      "answer": "Perplexity AI मध्ये प्रश्न विचारण्याची प्रक्रिया अतिशय सोपी आहे. आपण सामान्य भाषेत आपला प्रश्न लिहू शकतो. AI ला दिलेल्या सूचना किंवा प्रश्नाला Prompt असे म्हणतात.\n\nStep-by-Step पद्धत:\n\n1. Open Website: https://www.perplexity.ai/ ही वेबसाइट उघडा.\n2. Login: आवश्यक असल्यास आपल्या Account मध्ये Login करा.\n3. Search Box: मुख्य Search Box वर क्लिक करा.\n4. Enter Prompt: आपला प्रश्न स्पष्टपणे लिहा.\n5. Submit: Enter दाबा किंवा Search पर्याय निवडा.\n6. Read Answer: AI ने तयार केलेले उत्तर वाचा.\n7. Check Sources: उत्तरासोबत दिलेले Sources आणि Citations तपासा.\n8. Follow-up: अधिक माहिती हवी असल्यास पुढील प्रश्न विचारा.\n\nउदाहरण Prompt:\n'What is Artificial Intelligence? Explain in simple Marathi with definition, advantages and 5 real-life examples.'\n\nया Prompt मध्ये AI ला विषय, भाषा आणि उत्तरामध्ये कोणती माहिती हवी आहे हे स्पष्ट केले आहे.\n\nमहत्त्वाची गोष्ट: प्रश्न जितका स्पष्ट आणि नेमका असेल तितके अपेक्षित उत्तर मिळण्यास मदत होते.",
+      "marks": 5,
+      "difficulty": "basic"
     },
     {
       "id": "Q-005",
-      "question": "What is a focused research question?",
-      "answer": "It clearly defines the topic, scope, timeframe and the information you need."
+      "question": "Prompt म्हणजे काय? Perplexity AI मध्ये चांगला Prompt कसा लिहावा?",
+      "answer": "AI ला एखादे काम करण्यासाठी दिलेली सूचना, प्रश्न किंवा आदेश म्हणजे Prompt होय. Perplexity AI मध्ये Prompt वापरून आपण माहिती शोधू शकतो, विषय समजून घेऊ शकतो आणि विशिष्ट स्वरूपात उत्तर मिळवू शकतो.\n\nचांगल्या Prompt ची वैशिष्ट्ये:\n\n1. Clear Question: प्रश्न स्पष्ट असावा.\n2. Context: आवश्यक पार्श्वभूमी दिलेली असावी.\n3. Language: उत्तर कोणत्या भाषेत हवे आहे ते सांगावे.\n4. Audience: उत्तर कोणासाठी आहे ते सांगावे.\n5. Requirements: कोणती माहिती समाविष्ट करायची ते सांगावे.\n6. Output Format: उत्तर Table, Points किंवा Paragraph मध्ये हवे आहे ते सांगावे.\n\nउदाहरण:\n\nWeak Prompt: Computer म्हणजे काय?\n\nStrong Prompt: Explain what a computer is in simple Marathi for a beginner student. Include its definition, main components, uses and 5 real-life examples. Present the answer with headings and bullet points.\n\nपहिल्या Prompt मध्ये फक्त विषय विचारला आहे. दुसऱ्या Prompt मध्ये विद्यार्थ्याची पातळी, भाषा, आवश्यक माहिती आणि उत्तराचे स्वरूप स्पष्ट केले आहे.\n\nम्हणून AI कडून अधिक उपयुक्त उत्तर मिळवण्यासाठी स्पष्ट आणि संदर्भपूर्ण Prompt लिहिणे महत्त्वाचे आहे.",
+      "marks": 5,
+      "difficulty": "basic"
     },
     {
       "id": "Q-006",
-      "question": "How can I research a current topic?",
-      "answer": "Mention the required timeframe and check publication dates and original sources in the results."
+      "question": "Perplexity AI आणि Google Search यांमधील फरक उदाहरणासह स्पष्ट करा.",
+      "answer": "Google Search आणि Perplexity AI या दोन्ही सेवा इंटरनेटवरील माहिती शोधण्यासाठी वापरल्या जातात. मात्र त्यांची काम करण्याची पद्धत वेगळी आहे.\n\nGoogle Search:\n1. संबंधित Websites आणि Search Results दाखवते.\n2. विविध वेबसाइट्सच्या Links उपलब्ध करून देते.\n3. वापरकर्त्याला वेगवेगळ्या वेबसाइट्स उघडून माहिती वाचावी लागते.\n4. Images, Videos, Maps आणि इतर प्रकारचे Search Results दाखवते.\n\nPerplexity AI:\n1. प्रश्न समजून AI आधारित उत्तर तयार करते.\n2. विविध उपलब्ध स्रोतांमधील माहितीचा सारांश देते.\n3. उत्तरासोबत Sources आणि Citations दाखवते.\n4. त्याच Chat मध्ये पुढील प्रश्न विचारता येतात.\n5. विषय समजून घेण्यासाठी संवादात्मक पद्धतीने मदत करते.\n\nउदाहरण:\n\nGoogle Search मध्ये 'History of India' असे शोधल्यास भारताच्या इतिहासाशी संबंधित अनेक वेबसाइट्स दिसतात.\n\nPerplexity AI मध्ये 'Explain the history of India in simple Marathi with 10 important events' असे विचारल्यास उपलब्ध स्रोतांच्या आधारे भारताच्या इतिहासाचा सारांश मिळू शकतो.\n\nनिष्कर्ष: Google Search वेबसाइट्स शोधण्यासाठी उपयुक्त आहे, तर Perplexity AI माहितीचा सारांश आणि संवादात्मक उत्तरे मिळवण्यासाठी उपयुक्त आहे. दोन्हींचा योग्य वापर केल्यास अधिक चांगला अभ्यास करता येतो.",
+      "marks": 10,
+      "difficulty": "important"
     },
     {
       "id": "Q-007",
-      "question": "What is source triangulation?",
-      "answer": "It is checking an important claim against multiple independent and credible sources."
+      "question": "Perplexity AI मध्ये Sources आणि Citations म्हणजे काय? त्यांचे महत्त्व स्पष्ट करा.",
+      "answer": "Sources म्हणजे माहिती मिळवण्यासाठी वापरलेल्या मूळ वेबसाइट्स, लेख, संशोधन पेपर्स किंवा इतर संदर्भ. Citations म्हणजे AI च्या उत्तरातील माहितीचा स्रोत दाखवणारे संदर्भ किंवा Links.\n\nSources आणि Citations चे महत्त्व:\n\n1. Verification: माहिती मूळ वेबसाइटवर जाऊन तपासता येते.\n2. Trust: माहिती कोणत्या स्रोतावर आधारित आहे हे समजते.\n3. Research: अधिक माहिती मिळवण्यासाठी मूळ स्रोत वाचता येतो.\n4. Accuracy: विविध स्रोतांमधील माहितीची तुलना करता येते.\n5. Learning: एखाद्या विषयाचा सखोल अभ्यास करता येतो.\n\nSources कसे तपासायचे?\n\n1. Perplexity AI मध्ये प्रश्न विचारा.\n2. AI ने दिलेले उत्तर वाचा.\n3. उत्तरासोबत दिलेले Citation किंवा Source Link निवडा.\n4. मूळ वेबसाइट उघडा.\n5. माहितीचा लेखक, तारीख आणि विश्वासार्हता तपासा.\n6. महत्त्वाच्या माहितीची इतर विश्वसनीय स्रोतांशी तुलना करा.\n\nउदाहरण: भारताच्या लोकसंख्येबद्दल प्रश्न विचारल्यास उत्तरासोबत संबंधित माहितीचे Sources मिळू शकतात. त्यावर क्लिक करून मूळ माहिती तपासता येते.\n\nमहत्त्वाची सूचना: Citation दिले आहे म्हणजे उत्तरातील प्रत्येक माहिती 100 टक्के अचूक आहे असे समजू नये. मूळ स्रोत तपासणे आवश्यक आहे.",
+      "marks": 10,
+      "difficulty": "important"
     },
     {
       "id": "Q-008",
-      "question": "Can Perplexity help compare products?",
-      "answer": "It can help organize a comparison, but confirm specifications, availability and prices on official product pages."
+      "question": "Perplexity AI मध्ये Follow-up Question म्हणजे काय? उदाहरणासह स्पष्ट करा.",
+      "answer": "एखाद्या प्रश्नाचे उत्तर मिळाल्यानंतर त्याच विषयावर अधिक माहिती मिळवण्यासाठी पुढील प्रश्न विचारणे म्हणजे Follow-up Question होय.\n\nFollow-up Questions मुळे एकाच विषयाचा अधिक सखोल अभ्यास करता येतो. प्रत्येक वेळी संपूर्ण प्रश्न पुन्हा लिहिण्याची आवश्यकता नसते. आधीच्या संभाषणाचा संदर्भ वापरून पुढील प्रश्न विचारता येतो.\n\nउदाहरण:\n\nपहिला प्रश्न: What is Artificial Intelligence?\n\nदुसरा प्रश्न: Explain its advantages in simple Marathi.\n\nतिसरा प्रश्न: Give me 5 real-life examples of Artificial Intelligence.\n\nचौथा प्रश्न: What are the disadvantages of Artificial Intelligence?\n\nपाचवा प्रश्न: Prepare 10 multiple-choice questions about Artificial Intelligence.\n\nयामुळे एका विषयाची ओळख, फायदे, तोटे आणि प्रश्नोत्तरे एकाच Chat मध्ये मिळवता येतात.\n\nविद्यार्थ्यांसाठी उपयोग:\n1. विषय अधिक स्पष्टपणे समजतो.\n2. नवीन प्रश्न तयार करता येतात.\n3. परीक्षेची तयारी करता येते.\n4. अवघड संकल्पना सोप्या भाषेत समजून घेता येतात.\n\nम्हणून Follow-up Questions वापरणे ही प्रभावी AI Learning पद्धत आहे.",
+      "marks": 5,
+      "difficulty": "basic"
     },
     {
       "id": "Q-009",
-      "question": "What is a primary source?",
-      "answer": "A primary source is original material such as official documentation, a research paper, a government dataset or a company announcement."
+      "question": "Perplexity AI विद्यार्थ्यांना अभ्यासासाठी कसा उपयोगी पडतो? उदाहरणांसह स्पष्ट करा.",
+      "answer": "Perplexity AI विद्यार्थ्यांसाठी एक उपयुक्त AI Learning Assistant म्हणून काम करू शकतो. विद्यार्थ्यांना विविध विषय समजून घेण्यासाठी, अभ्यासाचे नियोजन करण्यासाठी आणि परीक्षेची तयारी करण्यासाठी याचा वापर करता येतो.\n\nविद्यार्थ्यांसाठी उपयोग:\n\n1. Subject Learning: गणित, विज्ञान, इतिहास आणि भूगोल यांसारखे विषय समजून घेणे.\n2. Notes Creation: एखाद्या विषयाच्या अभ्यासाच्या Notes तयार करणे.\n3. Question Bank: परीक्षेसाठी महत्त्वाचे प्रश्न आणि उत्तरे तयार करणे.\n4. MCQ Practice: Multiple Choice Questions तयार करून सराव करणे.\n5. English Learning: इंग्रजी शब्द आणि वाक्ये शिकणे.\n6. Research: प्रोजेक्टसाठी माहिती शोधणे.\n7. Revision: मोठ्या धड्याचा सारांश तयार करणे.\n8. Study Planning: अभ्यासाचे वेळापत्रक तयार करणे.\n\nउदाहरण Prompt:\n'Explain Photosynthesis in simple Marathi for a 10th standard student. Include definition, process, important points and 10 exam questions with answers.'\n\nया Prompt च्या मदतीने विद्यार्थ्याला प्रकाशसंश्लेषणाची माहिती, प्रक्रिया आणि परीक्षेसाठी प्रश्न मिळवता येतात.\n\nमहत्त्वाचे: AI ने दिलेल्या उत्तराचा अभ्यास करून विषय स्वतः समजून घ्यावा. शालेय पाठ्यपुस्तक आणि शिक्षकांनी दिलेल्या माहितीसोबत तुलना करावी.",
+      "marks": 5,
+      "difficulty": "basic"
     },
     {
       "id": "Q-010",
-      "question": "What is a secondary source?",
-      "answer": "A secondary source interprets, summarizes or analyzes primary information."
+      "question": "Perplexity AI मध्ये मराठी, हिंदी आणि इंग्रजी भाषेत प्रश्न विचारता येतात का?",
+      "answer": "होय. Perplexity AI मध्ये मराठी, हिंदी आणि इंग्रजीसह अनेक भाषांमध्ये प्रश्न विचारण्याचा प्रयत्न करता येतो. तसेच उत्तर कोणत्या भाषेत हवे आहे हे Prompt मध्ये स्पष्टपणे सांगता येते.\n\nभाषेनुसार उदाहरणे:\n\nमराठी Prompt: मला इंटरनेट म्हणजे काय हे सोप्या मराठी भाषेत समजावून सांगा. पाच उदाहरणे द्या.\n\nहिंदी Prompt: इंटरनेट क्या है? इसे आसान हिंदी भाषा में उदाहरण के साथ समझाइए।\n\nEnglish Prompt: Explain what the Internet is in simple English with five examples.\n\nभाषा बदलून उत्तर मिळवण्याची पद्धत:\n\n1. Perplexity AI उघडा.\n2. Search Box मध्ये आपला प्रश्न लिहा.\n3. उत्तराची भाषा स्पष्टपणे नमूद करा.\n4. Enter दाबा.\n5. उत्तर मिळाल्यानंतर आवश्यक असल्यास त्याच भाषेत अधिक माहिती विचारा.\n\nफायदे:\n1. मातृभाषेतून नवीन विषय शिकता येतात.\n2. इंग्रजी भाषेचा सराव करता येतो.\n3. वेगवेगळ्या भाषांमधील माहिती समजून घेता येते.\n4. भाषांतर आणि शब्दांचे अर्थ समजून घेता येतात.\n\nम्हणून विद्यार्थ्यांनी आपल्या सोयीच्या भाषेत प्रश्न विचारून शिक्षणासाठी Perplexity AI चा उपयोग करावा.",
+      "marks": 5,
+      "difficulty": "basic"
     },
     {
       "id": "Q-011",
-      "question": "How should I verify a statistic?",
-      "answer": "Open the cited source, locate the original dataset or report, check the date and confirm how the statistic was calculated."
+      "question": "Perplexity AI वापरून इंग्रजी भाषा कशी शिकता येते?",
+      "answer": "Perplexity AI च्या मदतीने इंग्रजी भाषा शिकण्यासाठी Vocabulary, Grammar, Sentence Formation, Reading आणि Conversation Practice यांचा सराव करता येतो.\n\nइंग्रजी शिकण्यासाठी उपयोग:\n\n1. Vocabulary: नवीन इंग्रजी शब्द आणि त्यांचे मराठी अर्थ शिकणे.\n2. Grammar: Tenses, Articles, Prepositions आणि इतर Grammar Rules समजून घेणे.\n3. Sentence Formation: योग्य इंग्रजी वाक्य तयार करणे.\n4. Translation: मराठी वाक्यांचे इंग्रजीमध्ये भाषांतर करणे.\n5. Conversation: दैनंदिन संभाषणासाठी वाक्यांचा सराव करणे.\n6. Pronunciation: शब्दांचे उच्चार समजून घेण्यासाठी मार्गदर्शन घेणे.\n\nउदाहरण Prompt:\n'Teach me 20 daily-use English sentences with Marathi meanings. Explain pronunciation and provide simple examples for beginners.'\n\nदुसरे उदाहरण:\n'Explain English Tenses in simple Marathi with definitions, rules and examples.'\n\nयामुळे विद्यार्थ्यांना इंग्रजी भाषा टप्प्याटप्प्याने शिकता येते.\n\nटीप: इंग्रजी बोलण्याचा प्रत्यक्ष सराव करण्यासाठी इतर संवादात्मक Voice किंवा Language Learning साधनांचीही मदत घेता येते.",
+      "marks": 5,
+      "difficulty": "basic"
     },
     {
       "id": "Q-012",
-      "question": "Can Perplexity summarize a topic?",
-      "answer": "Yes. Ask for a concise overview and request sources for key claims."
+      "question": "Perplexity AI वापरून Programming आणि Coding शिकता येते का? उदाहरणासह स्पष्ट करा.",
+      "answer": "होय. Perplexity AI च्या मदतीने Programming आणि Coding मधील विविध विषय समजून घेता येतात. Beginner विद्यार्थ्यांपासून अनुभवी Developers पर्यंत सर्वजण याचा उपयोग माहिती शोधण्यासाठी आणि Coding Concepts समजून घेण्यासाठी करू शकतात.\n\nProgramming मधील प्रमुख उपयोग:\n\n1. HTML: Web Page तयार करण्याची मूलभूत माहिती शिकणे.\n2. CSS: Website चे Design आणि Styling समजून घेणे.\n3. JavaScript: Variables, Functions, Arrays आणि Objects शिकणे.\n4. React: Components, Props, State आणि Hooks समजून घेणे.\n5. Debugging: Code मधील Errors समजून घेण्यास मदत घेणे.\n6. Code Explanation: आधीपासून लिहिलेल्या Code चे स्पष्टीकरण मिळवणे.\n7. Interview Preparation: Programming Interview Questions तयार करणे.\n\nउदाहरण Prompt:\n'Teach me JavaScript from beginner level in simple Marathi. Explain variables, data types and functions with practical code examples and exercises.'\n\nDebugging Prompt:\n'Explain the error in this JavaScript code. Identify the root cause and provide an optimized solution with explanation.'\n\nमहत्त्वाची सूचना: AI ने दिलेला Code थेट Production मध्ये वापरण्यापूर्वी त्याची Testing, Security आणि Performance तपासणी करावी.",
+      "marks": 10,
+      "difficulty": "intermediate"
     },
     {
       "id": "Q-013",
-      "question": "What is a research follow-up?",
-      "answer": "It is a more specific question that explores an aspect of the initial answer in greater depth."
+      "question": "Perplexity AI मध्ये PDF आणि Documents Upload करून त्यांचे Analysis करता येते का?",
+      "answer": "होय. Perplexity AI मध्ये उपलब्ध असलेल्या File Upload सुविधेचा वापर करून समर्थित PDF आणि Documents मधील माहिती समजून घेण्यास मदत घेता येते. उपलब्ध File Types आणि Upload Limits हे Plan आणि सध्याच्या सुविधांनुसार बदलू शकतात.\n\nPDF आणि Documents चे प्रमुख उपयोग:\n\n1. PDF Summary: मोठ्या PDF चा सारांश तयार करणे.\n2. Important Points: महत्त्वाचे मुद्दे शोधणे.\n3. Question Answers: Documents मधून प्रश्न आणि उत्तरे तयार करणे.\n4. Study Notes: अभ्यासासाठी Notes तयार करणे.\n5. Document Analysis: फाइलमधील विशिष्ट माहिती शोधणे.\n6. Explanation: अवघड विषय सोप्या भाषेत समजावून घेणे.\n\nवापरण्याची सामान्य पद्धत:\n\n1. Perplexity AI उघडा.\n2. उपलब्ध Attach File किंवा Upload पर्याय निवडा.\n3. समर्थित PDF किंवा Document निवडा.\n4. Upload पूर्ण होण्याची वाट पाहा.\n5. फाइलसंबंधित प्रश्न विचारा.\n6. मिळालेल्या उत्तराची मूळ PDF सोबत तुलना करा.\n\nउदाहरण Prompt:\n'Summarize this PDF in simple Marathi. Explain all important topics and prepare 15 questions with detailed answers for beginners.'\n\nयामुळे विद्यार्थ्यांना मोठ्या अभ्यास साहित्याचा सारांश आणि परीक्षेसाठी प्रश्न तयार करण्यास मदत होते.\n\nमहत्त्वाची सूचना: संवेदनशील, वैयक्तिक किंवा गोपनीय माहिती असलेल्या फाइल्स Upload करण्यापूर्वी Privacy आणि Data Handling बाबी तपासाव्यात.",
+      "marks": 10,
+      "difficulty": "intermediate"
     },
     {
       "id": "Q-014",
-      "question": "Why does the date of a source matter?",
-      "answer": "Information about software, pricing, policies and current events can change, so freshness affects reliability."
+      "question": "Perplexity AI मध्ये Free Plan आणि Paid Plan म्हणजे काय? त्यांमधील फरक स्पष्ट करा.",
+      "answer": "Perplexity AI मध्ये सामान्य वापरासाठी Free Plan आणि अधिक प्रगत सुविधा व वापर मर्यादांसाठी Paid Plans उपलब्ध असू शकतात. विद्यार्थ्यांनी सुरुवातीला Free Plan वापरून मूलभूत सुविधा समजून घ्याव्यात.\n\nFree Plan:\n1. सामान्य प्रश्न विचारण्यासाठी उपयोगी.\n2. माहिती शोधण्यासाठी वापरता येतो.\n3. AI आधारित उत्तरे मिळवता येतात.\n4. Sources आणि Citations पाहता येतात.\n5. उपलब्ध वापर मर्यादेनुसार सामान्य संशोधन करता येते.\n\nPaid Plans:\n1. अधिक वापर मर्यादा उपलब्ध असू शकतात.\n2. Advanced Search आणि Research संबंधित अतिरिक्त सुविधा मिळू शकतात.\n3. उपलब्धतेनुसार अधिक प्रगत AI Models वापरता येतात.\n4. File Analysis आणि इतर प्रगत सुविधा उपलब्ध असू शकतात.\n5. वापरकर्त्याच्या गरजेनुसार अधिक क्षमता मिळू शकते.\n\nकोणता Plan निवडावा?\n\nBeginner विद्यार्थी: सुरुवातीला Free Plan वापरणे योग्य ठरू शकते.\n\nAdvanced Research User: अधिक संशोधन आणि प्रगत सुविधांची गरज असल्यास Paid Plan चा विचार करता येतो.\n\nउदाहरण: एखाद्या विद्यार्थ्याला सामान्य ज्ञान, इतिहास, विज्ञान आणि इंग्रजी शिकण्यासाठी Perplexity वापरायचे असल्यास सुरुवातीला Free Plan पुरेसा ठरू शकतो.\n\nटीप: Plans, किंमती, Features आणि Usage Limits वेळोवेळी बदलतात. खरेदी करण्यापूर्वी अधिकृत वेबसाइटवरील सध्याची माहिती तपासावी.",
+      "marks": 5,
+      "difficulty": "intermediate"
     },
     {
       "id": "Q-015",
-      "question": "What is a biased source?",
-      "answer": "A source may selectively present evidence or use framing that favors a particular viewpoint."
-    },
-    {
-      "id": "Q-016",
-      "question": "How do I avoid a broad answer?",
-      "answer": "Limit the question by geography, timeframe, audience, use case or comparison criteria."
-    },
-    {
-      "id": "Q-017",
-      "question": "Can Perplexity replace expert advice?",
-      "answer": "No. It can support research, but it does not replace qualified professional judgment in high-stakes situations."
-    },
-    {
-      "id": "Q-018",
-      "question": "What should I do if sources disagree?",
-      "answer": "Compare their methods, dates and evidence, then explain the disagreement rather than hiding it."
-    },
-    {
-      "id": "Q-019",
-      "question": "What is an evidence-based answer?",
-      "answer": "It is an answer whose important claims are supported by verifiable evidence."
-    },
-    {
-      "id": "Q-020",
-      "question": "What is a good research workflow?",
-      "answer": "Define the question, gather sources, inspect primary evidence, compare findings and record conclusions with links."
+      "question": "Perplexity AI वापरताना कोणती काळजी घ्यावी? त्याच्या मर्यादा आणि सुरक्षित वापर स्पष्ट करा.",
+      "answer": "Perplexity AI हे माहिती शोधण्यासाठी आणि शिकण्यासाठी उपयुक्त साधन आहे. मात्र AI ने दिलेली प्रत्येक माहिती अचूक, पूर्ण किंवा अद्ययावत असेलच असे नाही. म्हणून त्याचा वापर जबाबदारीने करणे आवश्यक आहे.\n\nPerplexity AI वापरताना घ्यावयाची काळजी:\n\n1. Source Verification: महत्त्वाच्या उत्तरांचे मूळ Sources तपासावेत.\n2. Cross Verification: एकाच माहितीची दोन किंवा अधिक विश्वसनीय स्रोतांशी तुलना करावी.\n3. Latest Information: माहितीची तारीख आणि ती अद्ययावत आहे का ते तपासावे.\n4. Privacy: Password, Bank Details आणि गोपनीय माहिती Prompt मध्ये टाकू नये.\n5. Accuracy: AI कडून चुकीची किंवा अपूर्ण माहिती मिळू शकते हे लक्षात ठेवावे.\n6. Academic Honesty: AI ने दिलेले उत्तर स्वतः समजून घ्यावे आणि शैक्षणिक कामात योग्य संदर्भ द्यावेत.\n7. Independent Learning: अभ्यासासाठी AI वर पूर्णपणे अवलंबून राहू नये.\n8. Important Decisions: वैद्यकीय, कायदेशीर आणि आर्थिक निर्णयांसाठी पात्र तज्ज्ञांचा सल्ला घ्यावा.\n\nPerplexity AI च्या काही मर्यादा:\n\n1. काही उत्तरे अपूर्ण असू शकतात.\n2. काही स्रोत जुने किंवा कमी विश्वासार्ह असू शकतात.\n3. चुकीचा Prompt दिल्यास अपेक्षित उत्तर मिळणार नाही.\n4. Free Plan मध्ये काही वापर मर्यादा असू शकतात.\n5. सर्व माहिती इंटरनेटवर उपलब्ध असेलच असे नाही.\n\nउदाहरण: एखाद्या विद्यार्थ्याने भारताच्या लोकसंख्येबद्दल माहिती विचारल्यास त्याने उत्तरातील आकडेवारीची तारीख आणि मूळ अधिकृत स्रोत तपासावा.\n\nनिष्कर्ष: Perplexity AI चा उपयोग माहिती शोधण्यासाठी, अभ्यासासाठी आणि संशोधनासाठी करावा. मात्र मिळालेल्या उत्तरांची पडताळणी करणे आणि स्वतः विचार करून शिकणे अत्यंत महत्त्वाचे आहे.",
+      "marks": 10,
+      "difficulty": "important"
     }
   ],
   "certificateUrl": "",
