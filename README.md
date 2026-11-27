@@ -25,7 +25,13 @@ The starter library contains 5 AI tools and 20 general Q&A items per tool (100 q
 
 ## Run locally
 
-JSON is loaded with the Fetch API, so do not open `index.html` directly using `file://`.
+The app works both from a local server and by opening `index.html` directly. Direct `file://` use reads a generated offline data bundle, because browsers block fetching JSON files from local pages.
+
+When you change `data/manifest.json` or any file in `data/tools/`, regenerate the bundle:
+
+```bash
+python scripts/build_offline_data.py
+```
 
 ### VS Code
 1. Clone or download this repository.
