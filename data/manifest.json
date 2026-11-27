@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-11-25",
+  "updatedAt": "2026-11-27",
   "description": "AI Masterclass tool manifest. Each tool is stored in an independent JSON file.",
   "tools": [
     {
@@ -11,6 +11,7 @@
       "classTitle": "Prompt Engineering with ChatGPT",
       "lectureNumber": 1,
       "lectureDate": "2026-11-24",
+      "questionCount": 15,
       "officialUrl": "https://chatgpt.com",
       "file": "data/tools/chatgpt.json",
       "status": "active"
@@ -23,6 +24,7 @@
       "classTitle": "AI Productivity with Gemini",
       "lectureNumber": 2,
       "lectureDate": "2026-11-25",
+      "questionCount": 12,
       "officialUrl": "https://gemini.google.com",
       "file": "data/tools/gemini.json",
       "status": "active"
@@ -35,6 +37,7 @@
       "classTitle": "Introduction to Perplexity AI",
       "lectureNumber": 1,
       "lectureDate": "2026-11-23",
+      "questionCount": 15,
       "officialUrl": "https://www.perplexity.ai/",
       "file": "data/tools/perplexity.json",
       "status": "active"
@@ -47,6 +50,7 @@
       "classTitle": "AI Writing & Reasoning with Claude",
       "lectureNumber": 4,
       "lectureDate": "2026-11-21",
+      "questionCount": 20,
       "officialUrl": "https://claude.ai",
       "file": "data/tools/claude.json",
       "status": "active"
@@ -59,6 +63,7 @@
       "classTitle": "AI Productivity with Microsoft Copilot",
       "lectureNumber": 5,
       "lectureDate": "2026-11-20",
+      "questionCount": 20,
       "officialUrl": "https://copilot.microsoft.com",
       "file": "data/tools/copilot.json",
       "status": "active"
@@ -71,9 +76,40 @@
       "classTitle": "Introduction to Google Pomelli AI – Beginner Certificate",
       "lectureNumber": 1,
       "lectureDate": "2026-11-21",
+      "questionCount": 20,
       "officialUrl": "https://labs.google/pomelli/about",
       "file": "data/tools/pomelli.json",
       "status": "active"
+    },
+    {
+      "id": "AI-007",
+      "name": "AI Voice Generation",
+      "slug": "ai-voice-generation",
+      "category": "AI Content Creation",
+      "classTitle": "AI Voice Generation, Voice-over and AI Advertisement Creation",
+      "lectureNumber": 6,
+      "lectureDate": "2026-11-14",
+      "questionCount": 36,
+      "officialUrl": "https://elevenlabs.io/",
+      "file": "data/tools/AI-006-AI-Voice-Generation.json",
+      "status": "active",
+      "mark": "V",
+      "color": "violet"
+    },
+    {
+      "id": "AI-008",
+      "name": "Gamma AI & ChatGPT",
+      "slug": "gamma-ai-chatgpt",
+      "category": "AI Presentation & Productivity",
+      "classTitle": "Gamma AI and ChatGPT - Professional PowerPoint Presentation Creation",
+      "lectureNumber": 6,
+      "lectureDate": "2026-10-18",
+      "questionCount": 10,
+      "officialUrl": "https://gamma.app",
+      "file": "data/tools/Gamma-AI-ChatGPT.json",
+      "status": "active",
+      "mark": "G",
+      "color": "violet"
     }
   ]
 }

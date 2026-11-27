@@ -1,0 +1,244 @@
+{
+  "id": "AI-007",
+  "toolName": "AI Voice Generation",
+  "category": "AI Content Creation",
+  "classTitle": "AI Voice Generation, Voice-over and AI Advertisement Creation",
+  "lectureNumber": 6,
+  "lectureDate": "2026-11-14",
+  "officialUrl": "https://elevenlabs.io/",
+  "description": "AI Voice Generation म्हणजे Text-to-Speech (TTS) तंत्रज्ञानाच्या मदतीने लिखित मजकूर नैसर्गिक आवाजात रूपांतरित करणे. याचा उपयोग जाहिराती, YouTube व्हिडिओ, Faceless YouTube Channels, Cartoon Videos, Explainer Videos आणि अनेक भाषांमधील Voice-over तयार करण्यासाठी होऊ शकतो. आवाजाची गुणवत्ता निवडलेल्या AI Tool, Voice, भाषा आणि वापराच्या प्रकारावर अवलंबून असते.",
+  "usage": "प्रथम ChatGPT किंवा इतर AI Tool वापरून जाहिरातीचा Script तयार करा. योग्य Script निवडल्यानंतर तो ElevenLabs सारख्या Text-to-Speech Tool मध्ये Paste करा, Voice निवडा, Audio Generate करा आणि Preview करून Download करा. त्यानंतर Video Editor मध्ये Visuals, Background Music, Sound Effects आणि Captions जोडून अंतिम व्हिडिओ तयार करा. वापरलेल्या Tool च्या Commercial Use, Licensing आणि Voice Cloning Consent अटी तपासा.",
+  "questions": [
+    {
+      "id": "Q-001",
+      "question": "AI Voice Generation म्हणजे काय?",
+      "answer": "AI Voice Generation म्हणजे Artificial Intelligence च्या मदतीने Text किंवा Script चे बोलल्या जाणाऱ्या आवाजात रूपांतर करणे. याला Text-to-Speech (TTS) असेही म्हणतात."
+    },
+    {
+      "id": "Q-002",
+      "question": "AI Voice Generation चा उपयोग कुठे करता येतो?",
+      "answer": "याचा उपयोग Digital Advertisements, YouTube Videos, Faceless YouTube Channels, Cartoon Videos, Explainer Videos, Product Promotions, Training Videos आणि Audio Content तयार करण्यासाठी करता येतो."
+    },
+    {
+      "id": "Q-003",
+      "question": "AI वापरून Voice-over तयार करण्यासाठी Human Voice-over Artist आवश्यक आहे का?",
+      "answer": "प्रत्येक वेळी Human Voice-over Artist आवश्यक असेलच असे नाही. AI Voice Tool वापरून अनेक प्रकारचे Voice-over तयार करता येतात. मात्र जाहिरातीचा उद्देश, भावनिक परिणाम, उच्चारांची अचूकता आणि अपेक्षित गुणवत्ता यानुसार Human Voice Artist अधिक योग्य ठरू शकतो."
+    },
+    {
+      "id": "Q-004",
+      "question": "Text-to-Speech (TTS) म्हणजे काय?",
+      "answer": "Text-to-Speech ही अशी Technology आहे जी लिखित Text ला आवाजामध्ये रूपांतरित करते. उदाहरणार्थ, आपण Script लिहून ElevenLabs मध्ये दिल्यास ते त्याचा Audio तयार करू शकते."
+    },
+    {
+      "id": "Q-005",
+      "question": "ElevenLabs म्हणजे काय?",
+      "answer": "ElevenLabs हे AI Audio Platform आहे. त्याच्या उपलब्ध सुविधांनुसार Text-to-Speech, AI Voice Generation आणि इतर Audio संबंधित कामे करता येतात. अधिकृत वेबसाइट: https://elevenlabs.io/"
+    },
+    {
+      "id": "Q-006",
+      "question": "AI Advertisement तयार करण्याची Basic Process कोणती?",
+      "answer": "Basic Process अशी आहे: 1) Product आणि Target Audience समजून घेणे, 2) ChatGPT कडून Advertisement Script तयार करणे, 3) योग्य Script निवडणे, 4) ElevenLabs मध्ये Voice निवडणे, 5) Audio Generate करणे, 6) Preview आणि आवश्यक असल्यास सुधारणा करणे, 7) Video Editor मध्ये Visuals, Music, Sound Effects आणि Captions जोडणे, 8) Final Advertisement Export करणे, 9) Ads चालवून Performance तपासणे."
+    },
+    {
+      "id": "Q-007",
+      "question": "Advertisement Script म्हणजे काय?",
+      "answer": "Advertisement Script म्हणजे जाहिरातीमध्ये बोलायचा मजकूर किंवा संवाद. यात सुरुवातीचा Hook, Product ची समस्या किंवा गरज, Product चे फायदे, Offer आणि Call to Action (CTA) यांचा समावेश असू शकतो."
+    },
+    {
+      "id": "Q-008",
+      "question": "Copywriting म्हणजे काय?",
+      "answer": "Copywriting म्हणजे ग्राहकाचे लक्ष वेधण्यासाठी, Product किंवा Service चे मूल्य समजावण्यासाठी आणि ग्राहकाला अपेक्षित कृती करण्यास प्रवृत्त करण्यासाठी प्रभावी Marketing Text लिहिणे."
+    },
+    {
+      "id": "Q-009",
+      "question": "FMCG म्हणजे काय?",
+      "answer": "FMCG चे पूर्ण रूप Fast-Moving Consumer Goods आहे. दैनंदिन वापरातील आणि तुलनेने जलद विक्री होणाऱ्या वस्तूंना FMCG म्हणतात. उदाहरणार्थ, साबण, शॅम्पू, खाद्यपदार्थ आणि Hair Oil."
+    },
+    {
+      "id": "Q-010",
+      "question": "ChatGPT कडून 60 सेकंदांची Advertisement Script कशी तयार करून घ्यावी?",
+      "answer": "ChatGPT ला Product, Target Audience, Product Benefits, Price, Advertisement Duration, Language, Tone आणि CTA यांची माहिती द्यावी. त्यानंतर 60 सेकंदांची Script मागावी. वेगवेगळे Hooks आणि Creative Angles तपासण्यासाठी एकापेक्षा जास्त Script Versions मागता येतात."
+    },
+    {
+      "id": "Q-011",
+      "question": "Role-Based Prompting म्हणजे काय?",
+      "answer": "Role-Based Prompting म्हणजे AI ला एखादी विशिष्ट भूमिका किंवा कौशल्याच्या दृष्टीने काम करण्याची सूचना देणे. उदाहरणार्थ, 'Act as a senior FMCG advertising copywriter' असे सांगून जाहिरात लेखनाच्या तज्ज्ञ पद्धतीने Script तयार करण्यास सांगता येते. AI कडे प्रत्यक्ष नोकरीचा किंवा वैयक्तिक अनुभवाचा दावा करणे आवश्यक नाही."
+    },
+    {
+      "id": "Q-012",
+      "question": "Hair Oil Product साठी 60 सेकंदांची Script तयार करण्यासाठी Prompt कसा लिहावा?",
+      "answer": "उदाहरण Prompt: 'Act as a senior FMCG advertising copywriter. Create 15 distinct 60-second video advertisement scripts for a hair oil product priced at ₹500. Write in natural Marathi for an Indian audience. Each script should include a strong opening hook, a relatable customer need, product benefits without unsupported medical claims, an engaging offer if applicable, and a clear call to action. Keep each script suitable for a voice-over.'"
+    },
+    {
+      "id": "Q-013",
+      "question": "ElevenLabs मध्ये Text-to-Speech वापरून Voice कसा तयार करायचा?",
+      "answer": "1) ElevenLabs वेबसाइट उघडा आणि उपलब्ध Text-to-Speech सुविधा निवडा. 2) तयार केलेला Script Paste करा. 3) उपलब्ध Voice Library मधून योग्य Voice निवडा. 4) भाषा आणि उपलब्ध Voice Settings तपासा. 5) Generate Audio करा. 6) Audio Preview ऐका. 7) आवश्यक असल्यास Script किंवा Voice Settings बदला. 8) Audio Download करा. UI आणि सुविधा Plan नुसार बदलू शकतात."
+    },
+    {
+      "id": "Q-014",
+      "question": "Voice Library म्हणजे काय?",
+      "answer": "Voice Library म्हणजे AI Tool मध्ये उपलब्ध असलेल्या वेगवेगळ्या आवाजांचा संग्रह. त्यामधून जाहिरातीच्या भाषा, शैली, वयोगटाचा प्रभाव, उच्चार आणि Brand Tone यांना अनुरूप Voice निवडता येतो."
+    },
+    {
+      "id": "Q-015",
+      "question": "AI Voice Generation मध्ये अनेक भाषा वापरता येतात का?",
+      "answer": "काही AI Voice Tools अनेक भाषांना Support करतात. मात्र प्रत्येक भाषेतील उच्चार, नैसर्गिकपणा आणि भावनिक अभिव्यक्तीची गुणवत्ता वेगळी असू शकते. त्यामुळे Audio वापरण्यापूर्वी Native किंवा जाणकार व्यक्तीकडून तपासणे चांगले."
+    },
+    {
+      "id": "Q-016",
+      "question": "Faceless YouTube Channel म्हणजे काय?",
+      "answer": "Faceless YouTube Channel म्हणजे असा YouTube Channel ज्यामध्ये Creator स्वतःचा चेहरा व्हिडिओमध्ये दाखवत नाही. त्याऐवजी Voice-over, Animation, Stock Footage, AI Visuals, Screen Recordings आणि Captions वापरले जाऊ शकतात. Content मूळ, उपयुक्त आणि Platform Policies नुसार असणे आवश्यक आहे."
+    },
+    {
+      "id": "Q-017",
+      "question": "AI वापरून Cartoon Video तयार करण्याची प्रक्रिया काय आहे?",
+      "answer": "प्रथम ChatGPT कडून Story आणि Scene-wise Script तयार करा. त्यानंतर योग्य Image किंवा Animation Tool वापरून पात्रे आणि दृश्ये तयार करा. पात्रांसाठी AI Voice Generation वापरा. आवश्यक Sound Effects आणि Background Music जोडा. शेवटी Video Editor मध्ये सर्व घटक एकत्र करून व्हिडिओ Export करा."
+    },
+    {
+      "id": "Q-018",
+      "question": "Background Noise म्हणजे काय?",
+      "answer": "Background Noise म्हणजे मुख्य आवाज किंवा संवादाच्या मागे ऐकू येणारा अनावश्यक आवाज. उदाहरणार्थ, पंख्याचा आवाज, वाहतुकीचा आवाज, वाऱ्याचा आवाज किंवा रेकॉर्डिंगमधील Hiss."
+    },
+    {
+      "id": "Q-019",
+      "question": "Background Music, Background Noise आणि Sound Effects यांमध्ये काय फरक आहे?",
+      "answer": "Background Music म्हणजे व्हिडिओ किंवा जाहिरातीला वातावरण आणि भावनिक परिणाम देण्यासाठी वापरलेले संगीत. Background Noise म्हणजे अनावश्यक पार्श्वभूमीतील आवाज. Sound Effects म्हणजे विशिष्ट कृती किंवा प्रसंग दाखवण्यासाठी वापरलेले आवाज, उदाहरणार्थ क्लिक, दरवाजा उघडण्याचा आवाज किंवा पाण्याचा आवाज."
+    },
+    {
+      "id": "Q-020",
+      "question": "Voice-over म्हणजे काय?",
+      "answer": "Voice-over म्हणजे व्हिडिओमध्ये दिसणाऱ्या दृश्यांवर किंवा चित्रांवर ऐकू येणारे निवेदन किंवा बोललेला आवाज. तो दृश्यात दिसणाऱ्या व्यक्तीने प्रत्यक्ष बोललेला असणे आवश्यक नाही."
+    },
+    {
+      "id": "Q-021",
+      "question": "CPL म्हणजे काय?",
+      "answer": "CPL चे पूर्ण रूप Cost Per Lead आहे. जाहिरातीवर झालेला एकूण खर्च भागिले मिळालेल्या Leads ची संख्या म्हणजे CPL. Formula: CPL = Total Ad Spend ÷ Number of Leads."
+    },
+    {
+      "id": "Q-022",
+      "question": "₹10,000 जाहिरात खर्चातून 50 Leads मिळाल्यास CPL किती होईल?",
+      "answer": "CPL = ₹10,000 ÷ 50 = ₹200. म्हणजे प्रत्येक Lead मिळवण्यासाठी सरासरी ₹200 खर्च झाला."
+    },
+    {
+      "id": "Q-023",
+      "question": "₹200 CPL कमी करून ₹100 कसा करता येईल?",
+      "answer": "जर ₹10,000 खर्च कायम ठेवला आणि CPL ₹100 करायचा असेल, तर 100 Leads मिळवावे लागतील. यासाठी Ad Creative, पहिल्या काही सेकंदांचा Hook, Target Audience, Offer, Landing Page किंवा Lead Form, CTA आणि Follow-up Process सुधारून वेगवेगळ्या Versions ची A/B Testing करावी. ₹100 CPL ची हमी देता येत नाही; प्रत्यक्ष परिणाम Campaign आणि Market वर अवलंबून असतो."
+    },
+    {
+      "id": "Q-024",
+      "question": "Product ची किंमत ₹500 असल्यास CPL किती असायला हवा?",
+      "answer": "Product ची किंमत ₹500 आहे म्हणून CPL ठराविक रकमेचा असलाच पाहिजे असे नाही. योग्य CPL हा Product Margin, Lead-to-Sale Conversion Rate, Customer Acquisition Cost, Repeat Purchases आणि Profit यांवर अवलंबून असतो. फक्त कमी CPL न पाहता Lead Quality आणि प्रत्यक्ष विक्री तपासावी."
+    },
+    {
+      "id": "Q-025",
+      "question": "Lead आणि Sale यांमध्ये काय फरक आहे?",
+      "answer": "Lead म्हणजे Product किंवा Service मध्ये रस दाखवणारी संभाव्य ग्राहकाची नोंद किंवा चौकशी. Sale म्हणजे ग्राहकाने प्रत्यक्ष खरेदी पूर्ण करणे. प्रत्येक Lead चे Sale मध्ये रूपांतर होईलच असे नाही."
+    },
+    {
+      "id": "Q-026",
+      "question": "Meta Ads आणि Google Ads म्हणजे काय?",
+      "answer": "Meta Ads द्वारे Facebook आणि Instagram सारख्या Meta Platforms वर जाहिराती चालवता येतात. Google Ads द्वारे Google Search, YouTube, Display Network आणि उपलब्ध इतर Google Advertising Placements वर जाहिराती चालवता येतात."
+    },
+    {
+      "id": "Q-027",
+      "question": "CTA म्हणजे काय?",
+      "answer": "CTA चे पूर्ण रूप Call to Action आहे. जाहिरात पाहणाऱ्या व्यक्तीला पुढील कृती करण्यासाठी दिलेली स्पष्ट सूचना म्हणजे CTA. उदाहरणार्थ, 'आत्ताच ऑर्डर करा', 'अधिक माहितीसाठी संपर्क करा' किंवा 'आजच खरेदी करा'."
+    },
+    {
+      "id": "Q-028",
+      "question": "A/B Testing म्हणजे काय?",
+      "answer": "A/B Testing म्हणजे जाहिरातीचे दोन किंवा अधिक Versions नियंत्रित पद्धतीने तपासणे. उदाहरणार्थ, वेगवेगळे Hooks, Images, Videos, Headlines किंवा CTAs वापरून कोणता पर्याय चांगले Leads किंवा Sales देतो हे मोजणे."
+    },
+    {
+      "id": "Q-029",
+      "question": "AI Voice वापरून तयार केलेल्या जाहिरातीसाठी कोणत्या गोष्टी तपासाव्यात?",
+      "answer": "Voice ची स्पष्टता, उच्चार, भाषा, Script ची अचूकता, Product Claims, Music आणि Sound Effects चे योग्य प्रमाण, Copyright किंवा License, Commercial Usage Rights आणि अंतिम जाहिरातीची गुणवत्ता तपासावी. ग्राहकांची दिशाभूल करणारे किंवा पुरावा नसलेले आरोग्यविषयक दावे टाळावेत."
+    },
+    {
+      "id": "Q-030",
+      "question": "AI Voice Cloning वापरताना कोणती काळजी घ्यावी?",
+      "answer": "एखाद्या व्यक्तीचा आवाज Clone करण्यापूर्वी त्या व्यक्तीची स्पष्ट परवानगी घ्यावी. दुसऱ्याचा आवाज परवानगीशिवाय वापरू नये किंवा ग्राहकांची दिशाभूल होईल अशा प्रकारे वापरू नये. संबंधित Tool च्या Consent, Privacy आणि Usage Policies पाळाव्यात."
+    },
+    {
+      "id": "Q-031",
+      "question": "AI Voice Tool मधील Commercial Use License तपासणे का महत्त्वाचे आहे?",
+      "answer": "Audio वैयक्तिक वापरासाठी, व्यावसायिक जाहिरातींसाठी किंवा Monetized Content साठी वापरण्याचे अधिकार Plan आणि License नुसार बदलू शकतात. त्यामुळे Audio प्रकाशित किंवा विक्रीसाठी वापरण्यापूर्वी संबंधित Tool च्या सध्याच्या Terms आणि Commercial Usage Rights तपासणे आवश्यक आहे."
+    },
+    {
+      "id": "Q-032",
+      "question": "AI Advertisement तयार करण्यासाठी ChatGPT आणि ElevenLabs एकत्र कसे वापरता येतात?",
+      "answer": "ChatGPT चा वापर Product Research, Advertisement Ideas, Hooks आणि Scripts तयार करण्यासाठी करता येतो. निवडलेला Script ElevenLabs मध्ये देऊन Voice-over तयार करता येतो. त्यानंतर Video Editor मध्ये Visuals, Music, Sound Effects आणि Captions जोडून Final Advertisement तयार करता येते."
+    },
+    {
+      "id": "Q-033",
+      "question": "AI Voice Generation साठी Software किंवा SaaS Application कसे तयार करता येईल?",
+      "answer": "एक संभाव्य Architecture: Frontend साठी Next.js/React, Backend API साठी Next.js Route Handlers किंवा Node.js, Script Generation साठी OpenAI API, Voice Generation साठी ElevenLabs API, Database साठी MongoDB आणि Audio Files साठी Cloud Storage वापरता येईल. User Product Details देईल, Backend अनेक Scripts तयार करेल, User Script निवडेल, Voice API Audio तयार करेल आणि User Preview किंवा Download करू शकेल."
+    },
+    {
+      "id": "Q-034",
+      "question": "AI Voice Generation Application तयार करताना कोणत्या Software Engineering Best Practices पाळाव्यात?",
+      "answer": "API Keys फक्त Server Side वर सुरक्षित ठेवाव्यात. Long-running Audio Generation साठी Asynchronous Jobs आणि Job Status वापरावा. Rate Limiting, Input Validation, Error Handling, Retry Strategy, Usage/Credit Tracking, File Size Limits, Secure Cloud Storage आणि Logging यांची व्यवस्था करावी. API Secrets Frontend मध्ये कधीही Expose करू नयेत."
+    },
+    {
+      "id": "Q-035",
+      "question": "AI Voice Generation चा संपूर्ण Practical Workflow कोणता?",
+      "answer": "Product Details आणि Target Audience निश्चित करा → ChatGPT कडून अनेक Advertisement Scripts तयार करा → योग्य Script निवडा आणि तपासा → ElevenLabs मध्ये Voice निवडा → Audio Generate व Preview करा → आवश्यक बदल करा → Audio Download करा → Video Editor मध्ये Visuals, Background Music, Sound Effects आणि Captions जोडा → Final Video Export करा → Meta किंवा Google Ads वर Campaign चालवा → CPL, Lead Quality, Conversion Rate, Sales आणि Profit तपासून पुढील Campaign Optimize करा."
+    },
+    {
+      "id": "Q-036",
+      "question": "AI Voice Generation मध्ये वापरले जाणारे महत्त्वाचे Technical Terms कोणते?",
+      "answer": "AI: Artificial Intelligence; Prompt: AI ला दिलेली सूचना; Prompt Engineering: परिणाम सुधारण्यासाठी Prompt तयार करण्याची पद्धत; Role-Based Prompting: विशिष्ट भूमिकेच्या दृष्टीने AI कडून काम करून घेणे; Copywriting: Marketing साठी प्रभावी मजकूर लेखन; Script: बोलायचा किंवा सादर करायचा मजकूर; FMCG: Fast-Moving Consumer Goods; TTS: Text-to-Speech; Voice-over: व्हिडिओवरील निवेदनाचा आवाज; Voice Library: उपलब्ध आवाजांचा संग्रह; CPL: Cost Per Lead; CTA: Call to Action; A/B Testing: दोन किंवा अधिक पर्यायांची तुलना; API: Application Programming Interface; Integration: दोन किंवा अधिक Systems जोडणे; Automation: पुनरावृत्तीची कामे स्वयंचलित करणे."
+    }
+  ],
+  "practicalWorkflow": [
+    "Product, किंमत, फायदे आणि Target Audience निश्चित करा.",
+    "ChatGPT कडून 15 वेगवेगळ्या 60-second Advertisement Scripts तयार करून घ्या.",
+    "योग्य Script निवडा आणि तथ्ये व Product Claims तपासा.",
+    "ElevenLabs मध्ये Script Paste करून उपलब्ध Voice Library मधून योग्य Voice निवडा.",
+    "Audio Generate करा, Preview करा आणि आवश्यक असल्यास पुन्हा तयार करा.",
+    "Audio Download करून Video Editor मध्ये Visuals, Music, Sound Effects आणि Captions जोडा.",
+    "Final Video Export करून जाहिरात प्रकाशित करा.",
+    "Campaign चा CPL, Lead Quality, Conversion Rate, Sales आणि Profit मोजा."
+  ],
+  "examplePrompts": [
+    {
+      "title": "Hair Oil साठी 15 जाहिरात Scripts",
+      "prompt": "Act as a senior FMCG advertising copywriter. Create 15 distinct 60-second video advertisement scripts for a hair oil product priced at ₹500. Write in natural Marathi for an Indian audience. Each script should include a strong opening hook, a relatable customer need, product benefits without unsupported medical claims, an engaging offer if applicable, and a clear call to action. Keep each script suitable for a voice-over."
+    },
+    {
+      "title": "CPL कमी करण्यासाठी Campaign Analysis",
+      "prompt": "Act as a performance marketing strategist. Analyze this campaign's ad spend, leads, CPL, lead quality, conversion rate and sales. Suggest practical experiments to improve results. Separate assumptions from facts and do not guarantee a target CPL."
+    }
+  ],
+  "keyTerms": [
+    "Artificial Intelligence (AI)",
+    "Prompt",
+    "Prompt Engineering",
+    "Role-Based Prompting",
+    "Copywriting",
+    "Advertisement Script",
+    "FMCG",
+    "Text-to-Speech (TTS)",
+    "AI Voice Generation",
+    "Voice-over",
+    "Voice Library",
+    "Background Noise",
+    "Background Music",
+    "Sound Effects",
+    "Faceless YouTube Channel",
+    "CPL",
+    "Lead",
+    "Sale",
+    "CTA",
+    "A/B Testing",
+    "Meta Ads",
+    "Google Ads",
+    "API",
+    "Integration",
+    "Automation"
+  ],
+  "certificateUrl": "",
+  "status": "active",
+  "mark": "M",
+  "color": "violet"
+}

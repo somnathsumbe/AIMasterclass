@@ -21,13 +21,15 @@ https://somnathsumbe.github.io/AIMasterclass/
 
 ## Included AI tools
 
-The library currently contains 6 tools:
+The library currently contains 8 tools:
 1. ChatGPT
 2. Google Gemini
 3. Perplexity AI
 4. Claude
 5. Microsoft Copilot
 6. Google Pomelli AI
+7. AI Voice Generation
+8. Gamma AI & ChatGPT
 
 ## Run locally
 

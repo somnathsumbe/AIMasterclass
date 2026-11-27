@@ -1,0 +1,79 @@
+
+{
+  "id": "AI-008",
+  "toolName": "Gamma AI & ChatGPT",
+  "category": "AI Presentation & Productivity",
+  "classTitle": "Gamma AI and ChatGPT - Professional PowerPoint Presentation Creation",
+  "lectureNumber": 6,
+  "lectureDate": "2026-10-18",
+  "officialUrl": "https://gamma.app",
+  "description": "या Lecture मध्ये Gamma AI आणि ChatGPT वापरून Professional PowerPoint Presentation कशी तयार करायची, योग्य English Prompts कसे लिहायचे, आकर्षक Photos, Graphics, Icons आणि Infographics कसे वापरायचे, तसेच PPT Export आणि Download कसे करायचे हे सोप्या मराठी भाषेत शिकवले आहे.",
+  "usage": "Gamma AI किंवा ChatGPT उघडा आणि तुमच्या विषयानुसार Prompt लिहा. त्यामध्ये Role, Topic, Audience, Language, Number of Slides, Content, Images, Graphics आणि Design Theme यांचा समावेश करा. AI ने तयार केलेले Content तपासा, आवश्यक बदल करा आणि उपलब्ध Export सुविधेद्वारे Editable PowerPoint File डाउनलोड करा.",
+  "questions": [
+    {
+      "id": "Q-001",
+      "question": "Gamma AI म्हणजे काय?",
+      "answer": "1. Gamma AI हे AI आधारित Presentation तयार करण्याचे Tool आहे.\n2. याच्या मदतीने आकर्षक PowerPoint सारखी Presentations तयार करता येतात.\n3. Presentation तयार करण्यासाठी आपल्याला विषय आणि सूचना द्याव्या लागतात.\n4. Gamma AI दिलेल्या Prompt नुसार Slides तयार करते.\n5. यामध्ये Text, Images, Graphics आणि Layouts समाविष्ट करता येतात.\n6. वेगवेगळ्या Design Themes वापरता येतात.\n7. Educational, Business आणि Corporate Presentations तयार करता येतात.\n8. तयार केलेली Presentation Edit करता येते.\n9. उपलब्ध Export पर्यायांद्वारे PDF किंवा PowerPoint स्वरूपात डाउनलोड करता येते."
+    },
+    {
+      "id": "Q-002",
+      "question": "Gamma AI मध्ये PPT तयार करण्यासाठी Prompt कसा द्यायचा?",
+      "answer": "1. सर्वप्रथम https://gamma.app ही Website उघडा.\n2. आपल्या Account मध्ये Login करा.\n3. Create New Presentation हा पर्याय निवडा.\n4. Presentation चा विषय निश्चित करा.\n5. AI Prompt Box मध्ये आवश्यक सूचना लिहा.\n6. किती Slides हव्या आहेत ते सांगा.\n7. कोणत्या भाषेत Presentation हवी ते स्पष्ट करा.\n8. Images, Graphics, Charts आणि Infographics समाविष्ट करण्यास सांगा.\n9. Design Theme आणि Color Combination स्पष्ट करा.\n10. Generate केल्यानंतर सर्व Slides तपासा आणि आवश्यक सुधारणा करा."
+    },
+    {
+      "id": "Q-003",
+      "question": "Gamma AI साठी Professional Prompt कसा लिहायचा?",
+      "answer": "Professional Prompt लिहिताना खालील 10 गोष्टी लक्षात ठेवा.\n1. Role: AI ने कोणत्या भूमिकेत काम करायचे ते सांगा.\n2. Topic: PPT कोणत्या विषयावर बनवायची ते सांगा.\n3. Audience: Presentation कोणासाठी आहे ते स्पष्ट करा.\n4. Language: कोणती भाषा वापरायची ते सांगा.\n5. Slides: किती Slides हव्या आहेत ते सांगा.\n6. Content: कोणते मुद्दे समाविष्ट करायचे ते लिहा.\n7. Images: कोणत्या प्रकारचे फोटो हवेत ते सांगा.\n8. Graphics: Charts, Icons आणि Infographics मागवा.\n9. Design: Theme, Colors आणि Layout स्पष्ट करा.\n10. Output: अंतिम Presentation कोणत्या स्वरूपात हवी ते सांगा.\n\nPractical Prompt:\nAct as a professional presentation designer. Create a PowerPoint presentation about Artificial Intelligence for School Teachers. Create 15 slides in simple English. Include Introduction to AI, Uses of AI in Education, ChatGPT, Gemini AI and Practical Examples. Use beautiful photographs, modern graphics, icons and infographics. Make the presentation visually attractive, professional and easy to understand."
+    },
+    {
+      "id": "Q-004",
+      "question": "Gamma AI मध्ये कोणत्या प्रकारच्या PPT तयार करता येतात?",
+      "answer": "Gamma AI च्या मदतीने विविध प्रकारच्या Presentations तयार करता येतात.\n1. Educational Presentation: शैक्षणिक विषयांसाठी.\n2. Corporate Presentation: ऑफिस आणि कंपनीसाठी.\n3. Business Presentation: व्यवसायाची माहिती सादर करण्यासाठी.\n4. HR Presentation: कर्मचारी प्रशिक्षण आणि HR विषयांसाठी.\n5. Training Presentation: प्रशिक्षण कार्यक्रमांसाठी.\n6. Marketing Presentation: उत्पादन आणि सेवांच्या जाहिरातीसाठी.\n7. Project Presentation: प्रोजेक्ट समजावून सांगण्यासाठी.\n8. Research Presentation: संशोधनाची माहिती मांडण्यासाठी.\n9. Portfolio Presentation: स्वतःच्या कामाची माहिती सादर करण्यासाठी.\n10. Workshop Presentation: कार्यशाळा आणि प्रशिक्षणासाठी."
+    },
+    {
+      "id": "Q-005",
+      "question": "Gamma AI मध्ये चांगले Graphics आणि Photos कसे मिळवायचे?",
+      "answer": "1. Prompt मध्ये Images आणि Graphics आवश्यक असल्याचे स्पष्ट लिहा.\n2. प्रत्येक Slide च्या विषयाशी संबंधित फोटो मागा.\n3. Professional Photography वापरण्यास सांगा.\n4. Icons आणि Infographics समाविष्ट करण्यास सांगा.\n5. Charts आणि Diagrams वापरण्यास सांगा.\n6. सर्व Slides मध्ये एकसारखी Design Theme ठेवा.\n7. योग्य Color Combination निवडा.\n8. जास्त Text असलेल्या Slides टाळा.\n9. फोटो आणि मजकूर यांचा योग्य समतोल ठेवा.\n10. तयार झालेल्या Graphics ची गुणवत्ता तपासा.\n\nExample Prompt:\nUse high-quality professional photographs. Add relevant images to every slide. Include modern icons, beautiful illustrations, educational diagrams and infographics. Use a consistent blue and white theme. Avoid unnecessary decorative images."
+    },
+    {
+      "id": "Q-006",
+      "question": "ChatGPT वापरून PowerPoint Presentation कशी तयार करायची?",
+      "answer": "1. सर्वप्रथम https://chatgpt.com ही Website उघडा.\n2. नवीन Chat सुरू करा.\n3. कोणत्या विषयावर PPT हवी आहे ते सांगा.\n4. किती Slides हव्या आहेत ते निश्चित करा.\n5. AI ला Slide-wise Content तयार करण्यास सांगा.\n6. प्रत्येक Slide साठी Title आणि मुख्य मुद्दे मागा.\n7. संबंधित Images आणि Graphics तयार करण्यास सांगा.\n8. Speaker Notes आणि Practical Examples समाविष्ट करा.\n9. ChatGPT ला Editable PowerPoint File (.pptx) तयार करण्यास सांगा.\n10. तयार झालेली PPT Download करून Microsoft PowerPoint मध्ये उघडा आणि तपासा."
+    },
+    {
+      "id": "Q-007",
+      "question": "ChatGPT मध्ये PPT तयार करण्यासाठी कोणता Professional Prompt द्यावा?",
+      "answer": "ChatGPT मध्ये Professional PPT तयार करण्यासाठी स्पष्ट आणि सविस्तर Prompt द्यावा.\n\nPractical Prompt:\nAct as a senior PowerPoint presentation designer and educational training specialist. Create a professional PowerPoint presentation about AI Technology for Teachers.\n\nRequirements:\n1. Create 15 slides.\n2. Use simple English.\n3. Include detailed and useful content.\n4. Add relevant professional photographs.\n5. Include attractive graphics and icons.\n6. Use modern infographics.\n7. Use a professional blue and white theme.\n8. Add real-life examples.\n9. Include a conclusion slide.\n10. Create an editable and downloadable PPTX file.\n\nFor every slide provide Slide Title, Main Content, Relevant Image, Graphics Suggestions and Speaker Notes in Marathi."
+    },
+    {
+      "id": "Q-008",
+      "question": "Gamma AI आणि ChatGPT मध्ये काय फरक आहे?",
+      "answer": "Gamma AI आणि ChatGPT ही दोन्ही उपयुक्त AI Tools आहेत; परंतु त्यांचे मुख्य उपयोग वेगवेगळे आहेत.\n\n1. Gamma AI हे मुख्यतः Presentation Design आणि Slide Creation साठी वापरले जाते.\n2. ChatGPT हे विविध प्रकारची कामे करणारे AI Assistant आहे.\n3. Gamma AI मध्ये Prompt देऊन Presentation तयार करता येते.\n4. ChatGPT मध्ये PPT साठी Content, Outline आणि Slide-wise Information तयार करता येते.\n5. Gamma AI मध्ये Images आणि Layouts तयार करण्याच्या सुविधा उपलब्ध आहेत.\n6. ChatGPT मध्ये Image Generation सुविधेद्वारे Images तयार करता येतात.\n7. Gamma AI मध्ये Presentation Editing करता येते.\n8. ChatGPT मध्ये उपलब्ध File Creation सुविधेद्वारे PPTX File तयार करता येते.\n9. दोन्ही Tools मध्ये मराठी आणि इंग्रजी भाषेतील Content तयार करता येते.\n10. Gamma AI हे Presentation Design साठी उपयुक्त आहे, तर ChatGPT हे Content Planning आणि अनेक प्रकारच्या कामांसाठी उपयुक्त आहे.\n\nमहत्त्वाची सूचना: दोन्ही Tools मधील Features आणि Export सुविधा Account Plan नुसार बदलू शकतात."
+    },
+    {
+      "id": "Q-009",
+      "question": "Gamma AI मधून तयार केलेली PPT Download कशी करायची?",
+      "answer": "1. Gamma AI मध्ये तयार केलेली Presentation उघडा.\n2. सर्व Slides व्यवस्थित तपासा.\n3. आवश्यकतेनुसार Text आणि Images Edit करा.\n4. Design आणि Formatting तपासा.\n5. Share किंवा Export पर्याय शोधा.\n6. Export पर्याय उपलब्ध असल्यास त्यावर क्लिक करा.\n7. PowerPoint (.pptx) स्वरूप निवडा.\n8. Export प्रक्रिया पूर्ण होण्याची वाट पाहा.\n9. Download झालेली File Microsoft PowerPoint मध्ये उघडा.\n10. Fonts, Images आणि Layouts योग्य दिसतात का ते तपासा.\n\nटीप: Export पर्याय आणि त्यांची उपलब्धता Gamma च्या Subscription Plan नुसार बदलू शकते."
+    },
+    {
+      "id": "Q-010",
+      "question": "Professional PPT तयार करताना कोणत्या गोष्टी लक्षात ठेवाव्यात?",
+      "answer": "Professional PPT तयार करताना खालील 10 गोष्टी लक्षात ठेवा.\n1. Presentation चा विषय स्पष्ट असावा.\n2. योग्य Audience निश्चित केली पाहिजे.\n3. प्रत्येक Slide ला योग्य Title असावा.\n4. खूप मोठे Paragraphs टाळावेत.\n5. संबंधित आणि उच्च दर्जाचे Photos वापरावेत.\n6. योग्य Icons आणि Infographics वापरावेत.\n7. सर्व Slides मध्ये एकसारखी Design Theme असावी.\n8. Fonts आणि Colors वाचण्यास सोपे असावेत.\n9. Presentation मधील माहितीची अचूकता तपासावी.\n10. PPT सादर करण्यापूर्वी एकदा Practice करावी.\n\nProfessional Presentation साठी Good Prompt + Good Content + Good Visual Design या तीन गोष्टी महत्त्वाच्या आहेत."
+    }
+  ],
+  "practicalAssignment": {
+    "title": "Create an AI Education Presentation",
+    "topic": "Artificial Intelligence in Education",
+    "instructions": [
+      "Gamma AI वापरून 10 Slides ची Presentation तयार करा.",
+      "ChatGPT वापरून त्याच विषयावर 10 Slides चे Content तयार करा.",
+      "दोन्ही Presentations च्या Design ची तुलना करा.",
+      "प्रत्येक Slide मध्ये संबंधित फोटो आणि Graphics आहेत का ते तपासा.",
+      "अंतिम Presentation PowerPoint स्वरूपात Export करा."
+    ]
+  },
+  "certificateUrl": "",
+  "status": "active",
+  "mark": "M",
+  "color": "violet"
+}
